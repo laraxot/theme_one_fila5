@@ -12,8 +12,10 @@ updated: "2026-05-12T10:15:00Z"
 ## Concepts
 
 - [theme-one-operating-focus](./concepts/theme-one-operating-focus.md) — operating position, guardrails, and interpretation of Theme One strategy
+- [folio-pages-structure](../folio-pages-structure.md) — FO `pages/` su ptvx (auth/home; no mkdir dominio)
 - [method-name-homonyms](./concepts/method-name-homonyms.md) — censimento omonimi metodi (0 nel tema; logica nei moduli)
 - [php-method-name-homonyms-theme-impact](./concepts/php-method-name-homonyms-theme-impact.md) — impatto omonimi PHP sul tema vs moduli
+- [second-brain-local-discipline](./concepts/second-brain-local-discipline.md) — puntatore Xot + folio locale
 
 ## Entities
 

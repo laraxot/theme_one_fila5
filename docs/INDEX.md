@@ -14,6 +14,7 @@ related:
 ## Governance & Rules
 
 - [architecture-rules](./architecture-rules.md)
+- [folio-pages-structure](./folio-pages-structure.md) — FO `pages/` ptvx (auth/home; no cartelle semantiche)
 - [agent-confidence-discipline](./agent-confidence-discipline.md)
 - [agent-confidence-protocol](./agent-confidence-protocol.md)
 - [agent-edit-discipline](./agent-edit-discipline.md)
