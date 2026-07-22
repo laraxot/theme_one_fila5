@@ -3,7 +3,7 @@ title: "Handoff multi-org sync (STORY-003)"
 type: handoff
 tags: [git, multi-org, bmad, story-003]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-22
 module: "One"
 issues:
   - "https://github.com/provtv/theme_one_fila5/issues/6"
@@ -41,3 +41,9 @@ Un tree dirty o un remote dietro/avanti **non** è sincronizzato, anche se l’a
 ## Note owner
 
 Tema: discussion locale abilitata.
+
+### Playbook push dual-remote (2026-07-22)
+
+Se unpack fallisce → `git push --no-thin`. Se GH008 / LFS missing e un remote sibling ha già il tip → `git lfs fetch <sibling> --all` + `git lfs push <target> --all` + push.
+Canon (caso UI `b874935`): [../../../Modules/UI/docs/wiki/troubleshooting/git-push-lfs-missing-objects.md](../../../Modules/UI/docs/wiki/troubleshooting/git-push-lfs-missing-objects.md).
+Forward-only: niente reset/squash/force per aggirare LFS.
