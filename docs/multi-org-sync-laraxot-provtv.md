@@ -3,7 +3,7 @@ title: "Sincronizzazione multi-organizzazione (laraxot + provtv)"
 type: concept
 tags: [git, sync, multi-org, laraxot, provtv, quality-gates]
 created: "2026-07-21"
-updated: "2026-07-22"
+updated: "2026-07-23"
 related:
   - "../../../bashscripts/tools/prompts/02-gitmodules-sync.md"
 ---
@@ -54,3 +54,9 @@ Playbook UI: [git-push-lfs-missing-objects.md](../../../Modules/UI/docs/wiki/tro
 Confine Geo: [geo-boundary.md](../../../Modules/UI/docs/geo-boundary.md)
 
 I temi One/Zero/Three usano lo stesso playbook se il push fallisce per thin pack o LFS.
+
+### Caso User 2026-07-23 (unrelated)
+
+Se un remote ha `merge-base` vuoto vs HEAD → **non** merge/force automatico.
+Esempio User: laraxot OK, provtv unrelated — [../../../Modules/User/docs/wiki/troubleshooting/git-push-dual-remote-unrelated.md](../../../Modules/User/docs/wiki/troubleshooting/git-push-dual-remote-unrelated.md).
+
