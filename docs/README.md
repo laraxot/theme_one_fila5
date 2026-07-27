@@ -4,9 +4,10 @@ module: One
 type: index
 status: approved
 tags: [documentation, readme, tema, second-brain]
-updated: "2026-05-27"
+updated: "2026-07-27"
 related:
   - ../README.md
+  - ../../../../docs/wiki/troubleshooting/phpstan-stale-ignore-pattern.md
 ---
 
 # Documentazione — tema One
@@ -16,6 +17,12 @@ related:
 ## Scopo
 
 One theme for Laraxot PTVX: minimal theme skeleton for future frontend development and customization.
+
+## Qualità (2026-07-27)
+
+- PHPStan: usare `cd laravel && ./vendor/bin/phpstan analyse Modules` (o `Modules Themes` insieme).
+- `Themes` / `Themes/One` da soli → meta-errore ignore neon — [phpstan-stale-ignore-pattern](../../../../docs/wiki/troubleshooting/phpstan-stale-ignore-pattern.md).
+- Remote: `cd laravel/Themes/One && git remote -v`.
 
 ## Dove iniziare
 
