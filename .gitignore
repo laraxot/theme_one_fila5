@@ -26,3 +26,6 @@ docs/legacy/**
 
 # Local vector DB (agent tooling)
 ruvector.db
+
+# Prevent docs/archive dirs
+docs/archive
