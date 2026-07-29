@@ -25,14 +25,6 @@ Procedura operativa:
 10. Chiusura corretta:
    - rev-list HEAD...<remote>/dev = 0 0 per ogni remote raggiungibile;
    - git status --short --branch pulito;
-   - git lfs fsck --pointers OK se il repo usa LFS.
-
-Caso LFS, se il push fallisce:
-1. Leggi l'OID esatto dall'errore Git LFS.
-2. Prova git lfs fetch <remote-sibling> --all.
-3. Se non basta, cerca l'OID esatto nella cache LFS del monorepo root.
-4. Copia solo oggetti con SHA/OID coincidente nella cache LFS del tema.
-5. Esegui git lfs push <remote> dev, poi git push <remote> dev.
 
 Documentazione da aggiornare:
 - docs/git-multi-org-sync-handoff.md con remote, conteggi e risultato;
