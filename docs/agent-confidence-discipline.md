@@ -14,7 +14,11 @@ issue: "https://github.com/provtv/base_ptv_fila5/issues/152"
 
 # Disciplina agenti per massimizzare la confidenza
 
+<<<<<<< HEAD
 Regola canonica modulo: [agent-confidence-discipline](../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md).  
+=======
+Regola canonica modulo: [agent-confidence-discipline](../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md).
+>>>>>>> 5270421 (docs: preserve One sync notes and push prompt)
 Protocollo root: [agent-confidence-protocol](../../../../docs/wiki/rules/agent-confidence-protocol.md).
 
 Sintesi: verificare prima di affermare; riprodurre prima di correggere; **business logic / scopo / chiamanti** prima del tipo; aggiornare docs del **tema o modulo owner**; rispondere in italiano sintetico.
