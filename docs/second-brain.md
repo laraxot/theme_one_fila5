@@ -22,7 +22,4 @@ Stub **puntatore**: disciplina e link esterni curati stanno nella wiki di proget
 - Benchmark lettura esterna (Karpathy, Obsidian, PARA, …): [../../../../docs/wiki/sources/second-brain-external-benchmarks.md](../../../../docs/wiki/sources/second-brain-external-benchmarks.md)
 - **Filament (stack attuale): v5** — non v4. Policy: [../../../../docs/wiki/memories/filament-version-policy.md](../../../../docs/wiki/memories/filament-version-policy.md) · Xot: [../../../laravel/Modules/Xot/docs/filament-5-laraxot-rules.md](../../../laravel/Modules/Xot/docs/filament-5-laraxot-rules.md)
 - **UI/Geo Boundary:** Il modulo UI non contiene componenti o adapter per Mappe/Geo/Location (`Adapters/Location` e `Adapters/Map` rimossi). Il modulo Geo appartiene a un ambito separato ed è assente da questo progetto.
-<<<<<<< HEAD
 
-=======
->>>>>>> 5270421 (docs: preserve One sync notes and push prompt)
