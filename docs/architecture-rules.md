@@ -55,11 +55,7 @@ Xot ← UI ← Geo, User, Tenant, Activity, …
 
 ### Correzione 2026-07-22 (riferimento temi)
 
-<<<<<<< HEAD
 UI ha eliminato adapter Map/Location e pushato `dev` su `laraxot`+`provtv` (`b874935`).  
-=======
-UI ha eliminato adapter Map/Location e pushato `dev` su `laraxot`+`provtv` (`b874935`).
->>>>>>> 5270421 (docs: preserve One sync notes and push prompt)
 I temi non ospitano codice mappa: restano skin/layout; niente reintroduzione di selettori geografici via UI.
 
 ---
