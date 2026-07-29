@@ -44,3 +44,11 @@ Output finale richiesto:
 - commit finale;
 - verifiche 0 0;
 - stato clean.
+
+Risultato reale 2026-07-29:
+- commit sync locale pubblicato su provtv: 3a6a348;
+- provtv/dev verificato: HEAD...provtv/dev = 0 0;
+- laraxot/theme_one_fila5 configurato ma non sincronizzabile: GitHub risponde Repository not found anche su push;
+- working tree pulito dopo commit/push;
+- non sono stati usati reset, restore, checkout, switch, revert o force push.
+
