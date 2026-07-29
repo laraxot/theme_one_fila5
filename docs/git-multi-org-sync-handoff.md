@@ -44,9 +44,6 @@ Tema: discussion locale abilitata.
 
 ### Playbook push dual-remote (2026-07-22)
 
-Se unpack fallisce → `git push --no-thin`. Se GH008 / LFS missing e un remote sibling ha già il tip → `git lfs fetch <sibling> --all` + `git lfs push <target> --all` + push.
-Canon (caso UI `b874935`): [../../../Modules/UI/docs/wiki/troubleshooting/git-push-lfs-missing-objects.md](../../../Modules/UI/docs/wiki/troubleshooting/git-push-lfs-missing-objects.md).
-Forward-only: niente reset/squash/force per aggirare LFS.
 
 ### Caso User 2026-07-23 (unrelated)
 
