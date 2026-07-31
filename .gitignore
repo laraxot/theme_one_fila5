@@ -19,3 +19,16 @@ docs/legacy/**
 *.backup.*
 *.backup-*
 *.backup_*
+.cursor/
+.devcontainer/
+.vscode/
+.windsurf/
+
+# Local vector DB (agent tooling)
+ruvector.db
+
+# PHPStan output files
+phpstan*
+
+# Prevent docs/archive dirs
+docs/archive

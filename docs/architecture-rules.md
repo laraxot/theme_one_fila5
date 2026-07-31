@@ -10,11 +10,11 @@ Themes follow the same directory structure standards as Modules.
 
 ## Key References
 
-- **Global Rules**: [Trigger Map](../../../../../docs/wiki/rules/00-TRIGGER_MAP.md)
-- **BMAD Architecture**: [architecture.md](../../../../../docs/wiki/bmad/architecture.md) · [architecture-module-directory-structure.md](../../../../../docs/wiki/bmad/architecture-module-directory-structure.md)
-- **Module Structure Rule**: [module-root-php-folders-forbidden.md](../../../../../docs/wiki/rules/module-root-php-folders-forbidden.md)
+- **Global Rules**: [Trigger Map](../../../../docs/wiki/rules/00-TRIGGER_MAP.md)
+- **BMAD Architecture**: [architecture.md](../../../../docs/wiki/bmad/architecture.md) · [architecture-module-directory-structure.md](../../../../docs/wiki/bmad/architecture-module-directory-structure.md)
+- **Module Structure Rule**: [module-root-php-folders-forbidden.md](../../../../docs/wiki/rules/module-root-php-folders-forbidden.md)
 - **PHPStan Memory**: ALWAYS use `php -d memory_limit=-1 ./vendor/bin/phpstan` for heavy analyses to avoid parallel worker crashes.
-- **Documentation Rules**: [No lang/lang/ and No _docs/ Rule](../../../../../docs/wiki/concepts/no-lang-lang-and-no-underscore-docs-rule.md)
+- **Documentation Rules**: [No lang/lang/ and No _docs/ Rule](../../../../docs/wiki/concepts/no-lang-lang-and-no-underscore-docs-rule.md)
 
 ## Directory Structure
 
@@ -39,6 +39,25 @@ At theme root level, these folders MUST NOT exist:
 - ❌ `Listeners/`
 - ❌ `Database/` (capitalized)
 
+## Regola Dipendenza Moduli
+
+La dipendenza tra moduli è **unidirezionale**:
+
+```
+Xot ← UI ← Geo, User, Tenant, Activity, …
+```
+
+- Il modulo **UI non dipende** da Geo (o altri moduli domain-specific)
+- Il modulo **Geo può dipendere** da UI
+- Componenti geografici (mappe, geocoding, location) → solo `Modules/Geo/` **se** il monorepo lo include
+- In `base_ptvx_fila5` **Geo non c’è**: i temi **non** devono importare `LocationSelector` / mappe da UI (rimossi da UI il 2026-07-22)
+- Canon UI: [geo-boundary.md](../../../Modules/UI/docs/geo-boundary.md) · [dependency-rules.md](../../../Modules/UI/docs/dependency-rules.md)
+
+### Correzione 2026-07-22 (riferimento temi)
+
+UI ha eliminato adapter Map/Location e pushato `dev` su `laraxot`+`provtv` (`b874935`).  
+I temi non ospitano codice mappa: restano skin/layout; niente reintroduzione di selettori geografici via UI.
+
 ---
 
-*Updated: June 2026*
+*Updated: 2026-07-22*

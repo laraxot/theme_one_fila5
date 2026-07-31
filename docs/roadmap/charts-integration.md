@@ -1,3 +1,16 @@
+---
+title: "Integrazione grafici e dashboard"
+type: guide
+tags: ['charts', 'pdf', 'testing']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "integrazione grafici e dashboard"
+related:
+  - "./charts-integration.md"
+  - "./code-quality.md"
+  - "./documentation-consolidation.md"
+---
+
 # Integrazione grafici e dashboard
 
 ## Obiettivo

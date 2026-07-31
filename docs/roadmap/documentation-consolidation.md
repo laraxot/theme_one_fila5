@@ -1,3 +1,16 @@
+---
+title: "Consolidamento documentazione"
+type: guide
+tags: ['theme', 'documentation-consolidation']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "consolidamento documentazione"
+related:
+  - "./charts-integration.md"
+  - "./code-quality.md"
+  - "./documentation-consolidation.md"
+---
+
 # Consolidamento documentazione
 
 ## Obiettivo

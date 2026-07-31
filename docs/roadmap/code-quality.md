@@ -1,3 +1,16 @@
+---
+title: "Qualita del codice e strumenti"
+type: guide
+tags: ['charts', 'pdf']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "qualita del codice e strumenti"
+related:
+  - "./charts-integration.md"
+  - "./code-quality.md"
+  - "./documentation-consolidation.md"
+---
+
 # Qualita del codice e strumenti
 
 ## Obiettivo

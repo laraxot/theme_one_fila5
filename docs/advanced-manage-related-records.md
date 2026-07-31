@@ -1,3 +1,16 @@
+---
+title: "Advanced ManageRelatedRecords - One Theme"
+type: pattern
+tags: ['theme', 'advanced-manage-related-records']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "advanced managerelatedrecords - one theme"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Advanced ManageRelatedRecords - One Theme
 
 ## The "Sexy" Experience

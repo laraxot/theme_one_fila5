@@ -3,7 +3,7 @@ title: "module-directory-structure-boundary — puntatore"
 type: reference
 updated: 2026-06-18
 related:
-  - ../../../../../../docs/wiki/rules/module-root-php-folders-forbidden.md
+  - ../../../../../docs/wiki/rules/module-root-php-folders-forbidden.md
   - ../../../../../../laravel/Modules/Xot/docs/module-directory-structure-rule.md
 ---
 
@@ -22,4 +22,4 @@ Cartelle `Actions/`, `Models/`, `Http/` nella **root** del tema — stesso anti-
 
 ## Canon
 
-- [architecture-module-directory-structure.md](../../../../../../docs/wiki/bmad/architecture-module-directory-structure.md)
+- [architecture-module-directory-structure.md](../../../../../docs/wiki/bmad/architecture-module-directory-structure.md)

@@ -1,3 +1,16 @@
+---
+title: "Namespace e convenzioni tema"
+type: guide
+tags: ['theme', 'namespace-conventions']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "namespace e convenzioni tema"
+related:
+  - "./charts-integration.md"
+  - "./code-quality.md"
+  - "./documentation-consolidation.md"
+---
+
 # Namespace e convenzioni tema
 
 ## Obiettivo

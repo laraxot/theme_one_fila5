@@ -1,3 +1,16 @@
+---
+title: "One - Product Launch Plan"
+type: guide
+tags: ['charts', 'pdf', 'testing']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "one - product launch plan"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # One - Product Launch Plan
 
 > Piano di lancio. Theme.

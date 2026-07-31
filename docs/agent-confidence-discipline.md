@@ -4,16 +4,19 @@ type: rule
 status: approved
 tags: [agent, confidence, verification]
 created: "2026-05-26"
-updated: "2026-06-18"
+updated: "2026-07-22"
 related:
-  - "../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md"
-issue: "https://github.com/provtv/base_ptv_fila5_mono/issues/152"
+  - "../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md"
+  - "../../../../docs/wiki/rules/agent-confidence-protocol.md"
+  - "./folio-pages-structure.md"
+issue: "https://github.com/provtv/base_ptv_fila5/issues/152"
 ---
 
 # Disciplina agenti per massimizzare la confidenza
 
-Regola canonica: [../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md](../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md).
+Regola canonica modulo: [agent-confidence-discipline](../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md).  
+Protocollo root: [agent-confidence-protocol](../../../../docs/wiki/rules/agent-confidence-protocol.md).
 
-Sintesi: verificare prima di affermare; riprodurre prima di correggere; **business logic prima del tipo** su bugfix; documentare prove, dubbi e rischio residuo; rispondere in italiano sintetico.
+Sintesi: verificare prima di affermare; riprodurre prima di correggere; **business logic / scopo / chiamanti** prima del tipo; aggiornare docs del **tema o modulo owner**; rispondere in italiano sintetico.
 
-Pattern bugfix: [../../../../docs/wiki/patterns/bugfix-business-logic-before-type.md](../../../../docs/wiki/patterns/bugfix-business-logic-before-type.md)
+Pattern bugfix: [bugfix-business-logic-before-type](../../../../docs/wiki/patterns/bugfix-business-logic-before-type.md)

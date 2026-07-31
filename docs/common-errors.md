@@ -1,3 +1,16 @@
+---
+title: "common errors"
+type: guide
+tags: ['filament', 'phpstan']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "common errors"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # common errors
 
 ## filament form schema senza chiavi (novembre 2025)

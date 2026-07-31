@@ -1,3 +1,16 @@
+---
+title: "Filament Version Declaration — One"
+type: guide
+tags: ['filament', 'laravel']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "filament version declaration one"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Filament Version Declaration — One
 
 **Current Version**: Filament v5 (Livewire v4 + Schemas)

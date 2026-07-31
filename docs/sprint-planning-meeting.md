@@ -1,3 +1,16 @@
+---
+title: "One - Sprint Planning Meeting"
+type: guide
+tags: ['charts', 'pdf', 'testing', 'phpstan']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "one - sprint planning meeting"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # One - Sprint Planning Meeting
 
 > Documento operativo per sprint planning. Theme.

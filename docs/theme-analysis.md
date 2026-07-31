@@ -1,3 +1,16 @@
+---
+title: "Theme Analysis - Theme One"
+type: guide
+tags: ['filament', 'laravel', 'charts', 'pdf']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "theme analysis - theme one"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Theme Analysis - Theme One
 
 **Date**: 2025-01-02  

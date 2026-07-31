@@ -1,3 +1,14 @@
+---
+title: "Chart Generation Actions - Theme Integration"
+type: how-to
+tags: ['charts']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "chart generation actions - theme integration"
+related:
+  - "./theme-integration.md"
+---
+
 # Chart Generation Actions - Theme Integration
 
 ## Overview

@@ -1,3 +1,16 @@
+---
+title: "One - Product Strategy"
+type: guide
+tags: ['filament', 'laravel', 'charts', 'pdf']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "one - product strategy"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # One - Product Strategy
 
 > Strategia prodotto. Theme.

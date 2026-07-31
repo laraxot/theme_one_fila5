@@ -1,3 +1,16 @@
+---
+title: "Theme One Docs Governance"
+type: rule
+tags: ['theme', 'model-docs-governance']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "theme one docs governance"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Theme One Docs Governance
 
 ## Objectives

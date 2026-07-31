@@ -17,7 +17,9 @@ Stub **puntatore**: disciplina e link esterni curati stanno nella wiki di proget
 
 ## Link operativi (relativi al repo)
 
-- Modello: [../../../../../docs/wiki/concepts/second-brain-operating-model.md](../../../../../docs/wiki/concepts/second-brain-operating-model.md)
-- Guida wiki modulo: [../../../../../docs/wiki/how-to/module-wiki-documentation.md](../../../../../docs/wiki/how-to/module-wiki-documentation.md)
-- Benchmark lettura esterna (Karpathy, Obsidian, PARA, …): [../../../../../docs/wiki/sources/second-brain-external-benchmarks.md](../../../../../docs/wiki/sources/second-brain-external-benchmarks.md)
-- **Filament (stack attuale): v5** — non v4. Policy: [../../../../docs/wiki/memories/filament-version-policy.md](../../../../docs/wiki/memories/filament-version-policy.md) · Xot: [../../Modules/Xot/docs/filament-5-laraxot-rules.md](../../Modules/Xot/docs/filament-5-laraxot-rules.md)
+- Modello: [../../../../docs/wiki/concepts/second-brain-operating-model.md](../../../../docs/wiki/concepts/second-brain-operating-model.md)
+- Guida wiki modulo: [../../../../docs/wiki/how-to/module-wiki-documentation.md](../../../../docs/wiki/how-to/module-wiki-documentation.md)
+- Benchmark lettura esterna (Karpathy, Obsidian, PARA, …): [../../../../docs/wiki/sources/second-brain-external-benchmarks.md](../../../../docs/wiki/sources/second-brain-external-benchmarks.md)
+- **Filament (stack attuale): v5** — non v4. Policy: [../../../../docs/wiki/memories/filament-version-policy.md](../../../../docs/wiki/memories/filament-version-policy.md) · Xot: [../../../laravel/Modules/Xot/docs/filament-5-laraxot-rules.md](../../../laravel/Modules/Xot/docs/filament-5-laraxot-rules.md)
+- **UI/Geo Boundary:** Il modulo UI non contiene componenti o adapter per Mappe/Geo/Location (`Adapters/Location` e `Adapters/Map` rimossi). Il modulo Geo appartiene a un ambito separato ed è assente da questo progetto.
+

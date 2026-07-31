@@ -1,3 +1,16 @@
+---
+title: "Code Quality Tools - Tema One"
+type: guide
+tags: ['filament', 'laravel', 'phpstan']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "code quality tools - tema one"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Code Quality Tools - Tema One
 
 > **Data**: Gennaio 2025  

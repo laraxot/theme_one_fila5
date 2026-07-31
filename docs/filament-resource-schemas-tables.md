@@ -1,3 +1,16 @@
+---
+title: "Filament Resource: Schemas e Tables (tema One)"
+type: guide
+tags: ['filament', 'testing']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "filament resource schemas e tables tema one"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Filament Resource: Schemas e Tables (tema One)
 
 ## Scopo
@@ -46,6 +59,7 @@ Dettaglio e anti-pattern: [Progressioni — filament-resource-schemas-tables](..
 
 ## Riferimenti
 
+- [UI — toggle layout lista/griglia](../../Modules/UI/docs/actions/table-layout-toggle.md) (ereditato via `HasXotTable`, nessun override nel tema)
 - [Xot — getPages ridondanza](../../Modules/Xot/docs/filament/getpages-redundancy-rule.md)
 - [Xot – Filament v5 hybrid pattern](../../Modules/Xot/docs/wiki/concepts/filament-v5-hybrid-pattern.md)
 - [Progressioni – migrazione in corso](../../Modules/Progressioni/docs/filament-resource-schemas-tables.md)

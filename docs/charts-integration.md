@@ -1,3 +1,16 @@
+---
+title: "Theme One - Charts Integration"
+type: guide
+tags: ['filament', 'charts', 'testing', 'phpstan']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "theme one - charts integration"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Theme One - Charts Integration
 
 ## 📋 Panoramica

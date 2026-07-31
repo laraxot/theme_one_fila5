@@ -1,3 +1,16 @@
+---
+title: "HTML2PDF Integration for Theme One"
+type: how-to
+tags: ['charts', 'pdf', 'testing']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "html2pdf integration for theme one"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # HTML2PDF Integration for Theme One
 
 ## 📋 Overview

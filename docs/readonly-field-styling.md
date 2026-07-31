@@ -1,3 +1,16 @@
+---
+title: "Readonly Field Styling - UI/UX Pattern"
+type: rule
+tags: ['filament']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "readonly field styling - uiux pattern"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Readonly Field Styling - UI/UX Pattern
 
 **Theme**: One  

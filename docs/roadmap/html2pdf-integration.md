@@ -1,3 +1,16 @@
+---
+title: "Integrazione HTML2PDF e output stampa"
+type: rule
+tags: ['charts', 'pdf', 'testing']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "integrazione html2pdf e output stampa"
+related:
+  - "./charts-integration.md"
+  - "./code-quality.md"
+  - "./documentation-consolidation.md"
+---
+
 # Integrazione HTML2PDF e output stampa
 
 ## Obiettivo

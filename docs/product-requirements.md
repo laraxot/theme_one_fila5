@@ -1,3 +1,16 @@
+---
+title: "Product Requirements Document (PRD)"
+type: guide
+tags: ['theme', 'product-requirements']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "product requirements document prd"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Product Requirements Document (PRD)
 
 ## Metadata

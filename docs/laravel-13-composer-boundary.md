@@ -1,3 +1,16 @@
+---
+title: "Laravel 13 Composer boundary for Theme One"
+type: rule
+tags: ['filament', 'laravel', 'permission', 'testing']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "laravel 13 composer boundary for theme one"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Laravel 13 Composer boundary for Theme One
 
 ## Rule
@@ -24,4 +37,4 @@ After Laravel 13 Composer resolution:
 ## References
 
 - Theme PRD: [prd.md](prd.md)
-- Xot Composer strategy: [../../Modules/Xot/docs/laravel-13-modular-composer-upgrade.md](../../Modules/Xot/docs/laravel-13-modular-composer-upgrade.md)
+- Xot Composer strategy: [../../../laravel/Modules/Xot/docs/laravel-13-modular-composer-upgrade.md](../../../laravel/Modules/Xot/docs/laravel-13-modular-composer-upgrade.md)

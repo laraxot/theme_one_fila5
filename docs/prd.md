@@ -1,3 +1,16 @@
+---
+title: "PRD: One Theme"
+type: guide
+tags: ['filament', 'charts']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "prd one theme"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # PRD: One Theme
 
 ## 📋 Executive Summary

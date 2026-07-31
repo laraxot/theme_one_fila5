@@ -1,3 +1,16 @@
+---
+title: "Troubleshooting"
+type: guide
+tags: ['filament']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "troubleshooting"
+related:
+  - "./advanced-manage-related-records.md"
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+---
+
 # Troubleshooting
 
 ## Common Issues
