@@ -9,7 +9,7 @@ module: "One"
 
 ## Log Entries
 
-[2026-07-22] [DOCS] Folio pages ptvx: [folio-pages-structure](../folio-pages-structure.md) — studio Fixcity Sixteen (git/sibling read-only) + forward-only; no restore.
+[2026-07-22] [DOCS] Folio pages ptvx: [folio-pages-structure](../folio-pages-structure.md) — studio progetto corrente Sixteen (git/sibling read-only) + forward-only; no restore.
 
 [2026-07-22] [DOCS] Folio pages ptvx: canon [folio-pages-structure](../folio-pages-structure.md) — scopo/chiamanti dello script `verify-no-semantic-folio-pages.sh` allineati a One/Zero (no hardcode Sixteen). Confidence stubs senza merge markers. Root: [no-semantic-folio-page-directories](../../../../docs/wiki/rules/no-semantic-folio-page-directories.md), [agent-confidence-protocol](../../../../docs/wiki/rules/agent-confidence-protocol.md).
 

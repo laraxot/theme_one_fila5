@@ -8,7 +8,7 @@ qmd: "folio pages structure theme one ptvx auth home index no semantic directori
 issues:
   - https://github.com/provtv/base_ptv_fila5/issues/124
 discussions:
-  - https://github.com/laraxot/base_fixcity_fila5/discussions/273
+  - https://github.com/laraxot/platform/discussions/273
 related:
   - ../wiki/concepts/theme-one-operating-focus.md
   - ../../../../docs/wiki/rules/no-semantic-folio-page-directories.md
@@ -22,12 +22,12 @@ related:
 
 Definire **cosa può vivere** in `resources/views/pages/` per questo tema, e perché.
 
-## Contesto ptvx vs Fixcity
+## Contesto ptvx vs progetto corrente
 
 | Base | Tema tipico | Pattern FO |
 |------|-------------|------------|
 | **ptvx** (questo repo) | One, Zero, Three | `auth/` + `home`/`index` — **niente** Sixteen |
-| Fixcity | Sixteen | `[container0]/[slug0]` + CMS JSON + widget modulo |
+| progetto corrente | Sixteen | `[container0]/[slug0]` + CMS JSON + widget modulo |
 
 La regola «no cartelle semantiche» è **condivisa**. Il pattern `container0` è **opzionale** qui finché non si adotta CMS containerizzato.
 
@@ -54,7 +54,7 @@ Dominio editoriale → **modulo owner** (Filament widget / CMS), non cartella ne
 
 ## Provenienza (studio, non restore)
 
-Contratto originale studiato da **base_fixcity** Theme Sixteen (`page-directory-structure.md`: solo `[container0]`, `auth`, `tests`) e dallo script sibling Fixcity.  
+Contratto originale studiato da **base_progetto corrente** Theme Sixteen (`page-directory-structure.md`: solo `[container0]`, `auth`, `tests`) e dallo script sibling progetto corrente.  
 Su ptvx si **avanza**: stesso divieto semantic dirs; senza obbligo Sixteen. Git: solo `log`/`show` — mai restore/checkout/reset ([git-forward-only](../../../../docs/wiki/rules/git-forward-only.md)).
 
 ## Prima di editare `pages/`
