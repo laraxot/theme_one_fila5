@@ -6,7 +6,7 @@ created: 2026-07-14
 updated: 2026-07-14
 qmd: "theme one wiki schema e convenzioni"
 related:
-  - "./SCHEMA.md"
+  - "./schema.md"
   - "./log.md"
   - "./overview.md"
 ---

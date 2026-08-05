@@ -89,4 +89,4 @@ related:
 
 - [index](./wiki/index.md)
 - [log](./wiki/log.md)
-- [SCHEMA](./wiki/SCHEMA.md)
+- [SCHEMA](./wiki/schema.md)

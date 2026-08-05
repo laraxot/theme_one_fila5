@@ -1,14 +1,14 @@
 ---
 title: "One Theme Architecture"
 type: architecture
-tags: [theme, architecture, ${theme,,}]
+tags: [theme, architecture, one]
 created: 2026-08-04
 updated: 2026-08-04
 ---
 # One Theme — Architecture
 
 ## Purpose
-One} theme architecture and design patterns for Laraxot PTVX.
+One theme architecture and design patterns for Laraxot PTVX.
 
 ## Core Components
 
