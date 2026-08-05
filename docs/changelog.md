@@ -19,7 +19,7 @@ Version history for One theme (skeleton/starter theme). Follows Semantic Version
 
 - **Semantic Versioning**: MAJOR.MINOR.PATCH (e.g., 1.0.0)
 - **Source**: Git tags + conventional commits
-- **Documentation**: Maintained in this file + root CHANGELOG.md
+- **Documentation**: Maintained in this file + root changelog.md
 - **Breaking changes**: Always marked with ⚠️ emoji
 - **Note**: One is a **skeleton theme** — no built-in CSS build, intentionally minimal
 

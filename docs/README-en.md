@@ -17,7 +17,7 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 
 - Workflow: [Semantic Release](./.github/workflows/semantic-release.yml)
 - Config: [.releaserc.json](./.releaserc.json)
-- Changelog: [CHANGELOG.md](./CHANGELOG.md)
+- Changelog: [changelog.md](./changelog.md)
 
 
 ## Documentazione tecnica
