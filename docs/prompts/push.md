@@ -1,3 +1,15 @@
+---
+title: 'Push'
+module: One
+type: reference
+slug: push
+description: 'Obiettivo: sincronizzare il tema One su tutti i remote GitHub configurati e documentare il percorso.'
+tags: [migrato-da-txt, one]
+converted_from: push.txt
+created: 2026-08-24
+updated: 2026-08-24
+---
+
 Obiettivo: sincronizzare il tema One su tutti i remote GitHub configurati e documentare il percorso.
 
 Contesto tema:
@@ -43,4 +55,3 @@ Risultato reale 2026-07-29:
 - laraxot/theme_one_fila5 configurato ma non sincronizzabile: GitHub risponde Repository not found anche su push;
 - working tree pulito dopo commit/push;
 - non sono stati usati reset, restore, checkout, switch, revert o force push.
-
