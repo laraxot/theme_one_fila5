@@ -27,7 +27,7 @@ rifare e contestare.
 | PHPInsights — Complexity | 100.0 % |
 | PHPInsights — Architecture | 100.0 % |
 | PHPInsights — Style | 100.0 % |
-| File `.md` sotto `docs/` | 102 |
+| File `.md` sotto `docs/` | 103 |
 | `TODO`/`FIXME`/`HACK` | 0 |
 | Test con casi che non girano (senza suffisso `Test.php`) | 0 |
 | Collisioni di case nel codice | 0 |
@@ -46,12 +46,13 @@ da `ignoreErrors` e non vengono contate da nessun gate.
 ### Due file .code-workspace
 
 `_one.code-workspace` e `_theme_one.code-workspace`. Il pilastro 6 dello standing order
-ne vuole uno solo, con il nome preso dal remote git. Due workspace significano due
-configurazioni di editor che divergono.
+ne vuole uno solo, col nome preso dal remote git. Due workspace significano due
+configurazioni di editor che divergono senza che nessuno se ne accorga.
 
 ### Nessun test
 
-0 file di test su 26 file PHP.
+0 file di test su 26 file PHP. Il `100 %` di PHPInsights qui non e' un giudizio di
+qualita': e' il punteggio di poche decine di righe.
 
 ### 2 collisioni di case nei docs
 
