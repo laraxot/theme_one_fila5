@@ -36,3 +36,8 @@ docs/archive
 # Output strumenti AI (cache locali, mai in git)
 graphify-out/
 .headroom/
+
+# Artefatti dei test: FileAction scrive placeholder da 3 byte con questi prefissi
+# quando un test risolve il path del tema invece della sua tmp dir. Non sono immagini.
+resources/images/g2-*.png
+resources/images/xot100-*.png
