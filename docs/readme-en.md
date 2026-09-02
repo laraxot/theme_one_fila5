@@ -1,3 +1,11 @@
+---
+title: "One Theme — README (English)"
+type: guide
+tags: [theme, one, readme, english]
+created: 2026-09-02
+updated: 2026-09-02
+qmd: "one theme readme english overview"
+---
 # One: il tema che trasforma complessita in vantaggio operativo
 
 One theme for Laraxot PTVX: minimal theme skeleton for future frontend development and customization.

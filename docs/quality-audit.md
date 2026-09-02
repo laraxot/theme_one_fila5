@@ -49,6 +49,9 @@ da `ignoreErrors` e non vengono contate da nessun gate.
 ne vuole uno solo, col nome preso dal remote git. Due workspace significano due
 configurazioni di editor che divergono senza che nessuno se ne accorga.
 
+Risolto il 2 settembre 2026 (story 5.77): i due file erano byte-identici, resta
+`_theme_one.code-workspace` (dal remote `theme_one_fila5`).
+
 ### Nessun test
 
 0 file di test su 26 file PHP. Il `100 %` di PHPInsights qui non e' un giudizio di
