@@ -22,4 +22,4 @@ Cartelle `Actions/`, `Models/`, `Http/` nella **root** del tema — stesso anti-
 
 ## Canon
 
-- [architecture-module-directory-structure.md](../../../../../docs/wiki/bmad/architecture-module-directory-structure.md)
+- [architecture-module-directory-structure.md](../../../../../../docs/wiki/bmad/architecture-module-directory-structure.md)

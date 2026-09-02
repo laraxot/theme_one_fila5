@@ -326,4 +326,4 @@ Convenzioni backend condivise mono-repo (non Blade): vietato `persist*` su model
 - [Tailwind CSS Naming](https://tailwindcss.com/docs)
 - [PHP Naming Standards (PSR-12)](https://www.php-fig.org/psr/psr-12/)
 - [Atomic Git Commits](https://www.conventionalcommits.org/)
-- [Zero Theme Conventions](../../../Zero/docs/naming-conventions.md) (reference)
+- [Zero Theme Conventions](../../Zero/docs/naming-conventions.md) (reference)
