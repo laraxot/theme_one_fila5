@@ -11,7 +11,10 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 CHANGELOG.md export-ignore
+<<<<<<< .merge_file_cxwhOM
 
+=======
+>>>>>>> .merge_file_hbr8sY
 # Binari come blob git normali — NIENTE git-lfs.
 # `binary` disattiva diff e normalizzazione di fine riga.
 # `!filter` annulla un eventuale filter.lfs ereditato dalla configurazione di sistema:
