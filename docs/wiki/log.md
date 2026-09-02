@@ -11,13 +11,13 @@ module: "One"
 
 [2026-07-22] [DOCS] Folio pages ptvx: [folio-pages-structure](../folio-pages-structure.md) — studio progetto corrente Sixteen (git/sibling read-only) + forward-only; no restore.
 
-[2026-07-22] [DOCS] Folio pages ptvx: canon [folio-pages-structure](../folio-pages-structure.md) — scopo/chiamanti dello script `verify-no-semantic-folio-pages.sh` allineati a One/Zero (no hardcode Sixteen). Confidence stubs senza merge markers. Root: [no-semantic-folio-page-directories](../../../../docs/wiki/rules/no-semantic-folio-page-directories.md), [agent-confidence-protocol](../../../../docs/wiki/rules/agent-confidence-protocol.md).
+[2026-07-22] [DOCS] Folio pages ptvx: canon [folio-pages-structure](../folio-pages-structure.md) — scopo/chiamanti dello script `verify-no-semantic-folio-pages.sh` allineati a One/Zero (no hardcode Sixteen). Confidence stubs senza merge markers. Root: [no-semantic-folio-page-directories](../../../../../docs/wiki/rules/no-semantic-folio-page-directories.md), [agent-confidence-protocol](../../../../../docs/wiki/rules/agent-confidence-protocol.md).
 
-[2026-06-15] [DOCS] Allineamento censimento omonimi metodi — [method-name-homonyms](./concepts/method-name-homonyms.md), [php-method-name-homonyms-theme-impact](./concepts/php-method-name-homonyms-theme-impact.md). Indice root: [method-name-homonym-census](../../../../docs/wiki/method-name-homonym-census.md).
+[2026-06-15] [DOCS] Allineamento censimento omonimi metodi — [method-name-homonyms](./concepts/method-name-homonyms.md), [php-method-name-homonyms-theme-impact](./concepts/php-method-name-homonyms-theme-impact.md). Indice root: [method-name-homonym-census](../../../../../docs/wiki/method-name-homonym-census.md).
 
 ## [2026-05-26] ops | ptvx.local ripristinato (PHP 8.4 handler)
 
-- Root cause e fix documentati in modulo Xot: [ptvx-local-php84-apache-handler.md](../../../Modules/Xot/docs/wiki/troubleshooting/ptvx-local-php84-apache-handler.md).
+- Root cause e fix documentati in modulo Xot: [ptvx-local-php84-apache-handler.md](../../../../Modules/Xot/docs/wiki/troubleshooting/ptvx-local-php84-apache-handler.md).
 
 ### Format
 

@@ -30,20 +30,20 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 
 ## Documentazione tecnica
 
-- [Indice docs](./docs/README.md) — mappa knowledge base locale (wiki, audit, regole)
+- [Indice docs](./README.md) — mappa knowledge base locale (wiki, audit, regole)
 
 ## Documentazione essenziale
 
-- [Second brain locale](./docs/wiki/index.md)
-- [Audit ridondanza](./docs/code-redundancy-audit.md)
-- [Protocollo confidenza](./docs/agent-confidence-protocol.md)
-- [Disciplina agenti](./docs/agent-edit-discipline.md)
-- [Advanced Manage Related Records](./docs/advanced-manage-related-records.md)
-- [Architecture Rules](./docs/architecture-rules.md)
-- [Charts Integration](./docs/charts-integration.md)
-- [Code Quality Tools](./docs/code-quality-tools.md)
-- [Common Errors](./docs/common-errors.md)
-- [Docs Archive Policy](./docs/docs-archive-policy.md)
+- [Second brain locale](./wiki/index.md)
+- [Audit ridondanza](./code-redundancy-audit.md)
+- [Protocollo confidenza](./agent-confidence-protocol.md)
+- [Disciplina agenti](./agent-edit-discipline.md)
+- [Advanced Manage Related Records](./advanced-manage-related-records.md)
+- [Architecture Rules](./architecture-rules.md)
+- [Charts Integration](./charts-integration.md)
+- [Code Quality Tools](./code-quality-tools.md)
+- [Common Errors](./common-errors.md)
+- [Docs Archive Policy](./docs-archive-policy.md)
 
 ## Filosofia
 

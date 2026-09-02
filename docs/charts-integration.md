@@ -699,8 +699,8 @@ class ChartStylingTest extends TestCase
 ## 📚 Risorse
 
 ### Documentazione Correlata
-- [Filament Charts Complete Guide](../../Modules/Xot/docs/filament-charts-complete-guide.md)
-- [Chart Export Guide](../../Modules/Xot/docs/chart-export-guide.md)
+- [Filament Charts Complete Guide](../../../Modules/Xot/docs/filament-charts-complete-guide.md)
+- [Chart Export Guide](../../../Modules/Xot/docs/chart-export-guide.md)
 - [Theme One Design System](./design-system.md)
 - [Theme One Color Palette](./colors.md)
 
