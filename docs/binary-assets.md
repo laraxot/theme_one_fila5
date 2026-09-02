@@ -1,3 +1,11 @@
+---
+title: "Asset binari"
+type: guide
+tags: [theme, one, binary, assets]
+created: 2026-07-31
+updated: 2026-09-01
+qmd: "one theme asset binari"
+---
 # Asset binari
 
 Gli asset binari sono file normali del repository.
