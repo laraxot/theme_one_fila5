@@ -1,3 +1,11 @@
+---
+title: "📊 Theme One - Charts Integration"
+type: index
+tags: [theme, one, readme]
+created: 2026-05-19
+updated: 2026-05-19
+qmd: "one theme theme one   charts integration"
+---
 # 📊 Theme One - Charts Integration
 
 **Theme**: One
