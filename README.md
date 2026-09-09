@@ -1,6 +1,6 @@
 # One: il tema che trasforma complessita in vantaggio operativo
 
-One theme for Laraxot PTVX: minimal theme skeleton for future frontend development and customization.
+One theme for Laraxot: minimal theme skeleton for future frontend development and customization.
 
 ## Perche guardarlo adesso
 
@@ -17,7 +17,7 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 
 - Workflow: [Semantic Release](./.github/workflows/semantic-release.yml)
 - Config: [.releaserc.json](./.releaserc.json)
-- Changelog: [CHANGELOG.md](./CHANGELOG.md)
+- Changelog: [changelog.md](./changelog.md)
 
 
 ## Documentazione tecnica
@@ -36,6 +36,17 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 - [Code Quality Tools](./docs/code-quality-tools.md)
 - [Common Errors](./docs/common-errors.md)
 - [Docs Archive Policy](./docs/docs-archive-policy.md)
+
+## Scopo e confini
+
+One è il tema di sviluppo locale: la stessa superficie di Zero, servita su `localhost`
+(`config/localhost/xra.php:10`), senza la catena di build che la produrrebbe — non ha
+`vite.config.js`, `tailwind.config.js`, `package.json` né `theme.json`. Tutti gli host
+reali usano Zero. Misurato il 2026-09-02: i 20 file Blade di One sono **byte a byte
+identici** a quelli di Zero (0 differenze, 0 file esclusivi), e `resources/css/` contiene
+42 file spuri `xotcov-*.css` / `dfa-*.css` che contengono solo `a{}`.
+
+Misure e cinque mosse concrete: [`docs/scopo.md`](./docs/scopo.md).
 
 ## Filosofia
 
