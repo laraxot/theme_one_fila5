@@ -129,7 +129,7 @@ The One theme provides a consistent, maintainable frontend experience using Blad
 ## 5. Technical Considerations
 
 ### Dependencies
-- Laravel 12+
+- Laravel 13+
 - Blade templates
 - Tailwind CSS v4
 - Vite build tool

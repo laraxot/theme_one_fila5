@@ -6,7 +6,7 @@ created: 2026-07-22
 updated: 2026-07-22
 qmd: "folio pages structure theme one ptvx auth home index no semantic directories"
 issues:
-  - https://github.com/provtv/base_ptv_fila5/issues/124
+  - https://github.com/provtv/<repo progetto>/issues/124
 discussions:
   - https://github.com/laraxot/platform/discussions/273
 related:

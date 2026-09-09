@@ -1,6 +1,6 @@
 # One: il tema che trasforma complessita in vantaggio operativo
 
-One theme for Laraxot PTVX: minimal theme skeleton for future frontend development and customization.
+One theme for Laraxot: minimal theme skeleton for future frontend development and customization.
 
 ## Perche guardarlo adesso
 

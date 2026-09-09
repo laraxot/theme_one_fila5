@@ -589,5 +589,5 @@ protected function getOptions(): array {
 
 ---
 
-**Autore**: PTVX Development Team
+**Autore**: Laraxot
 **Ultimo Aggiornamento**: 2025-12-09

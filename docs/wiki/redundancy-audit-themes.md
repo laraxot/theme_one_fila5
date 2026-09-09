@@ -6,7 +6,7 @@ status: deprecated
 tags: [redundancy, redirect, theme]
 created: "2026-05-27"
 updated: "2026-05-27"
-issue: "https://github.com/provtv/base_ptv_fila5_mono/issues/162"
+issue: "https://github.com/provtv/<repo progetto>/issues/162"
 supersedes: redundancy-audit.md
 ---
 
