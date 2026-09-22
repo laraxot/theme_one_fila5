@@ -637,7 +637,7 @@ return [
 - [Filament Theming](https://filamentphp.com/docs/3.x/panels/themes)
 
 ### Related Docs
-- [Modules/UI/docs/components.md](../../../laravel/Modules/UI/docs/components.md)
+- [Modules/UI/docs/components.md](../../../Modules/UI/docs/components.md)
 - [Themes/Zero/docs/README.md](../../Zero/docs/README.md)
 
 ---

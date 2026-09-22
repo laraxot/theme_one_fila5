@@ -5,7 +5,7 @@ status: approved
 tags: [release, semantic-versioning, changelog, readme, marketing]
 created: "2026-05-26"
 updated: "2026-05-26"
-issue: "https://github.com/provtv/base_ptv_fila5_mono/issues/153"
+issue: "https://github.com/provtv/<repo progetto>/issues/153"
 ---
 
 # Release e README marketing — One
@@ -19,7 +19,7 @@ Ogni modulo/tema deve essere pubblicabile, comprensibile e desiderabile: workflo
 - `../README.md`
 - `../.github/workflows/semantic-release.yml`
 - `../.releaserc.json`
-- `../CHANGELOG.md`
+- `../changelog.md`
 
 ## Confidenza
 
