@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+---
+title: "One Theme — Mappa Graphify"
+type: guide
+tags: [theme, one, graphify]
+created: 2026-08-02
+updated: 2026-08-02
+qmd: "one theme one theme   mappa graphify"
+---
+>>>>>>> a521db2 (.)
 # One Theme — Mappa Graphify
 
 **Versione:** 1.0.0 | **Tema:** One | **Data:** 2026-08-02

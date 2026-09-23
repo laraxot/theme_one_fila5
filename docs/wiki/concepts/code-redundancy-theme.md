@@ -44,5 +44,10 @@ File quasi identici:
 
 ## Collegamenti
 
+<<<<<<< HEAD
 - [Zero — stesso tema concettuale](../../../Zero/docs/wiki/concepts/code-redundancy-theme.md)
 - [User auth owner](../../../../Modules/User/docs/wiki/concepts/code-redundancy-user.md)
+=======
+- [Zero — stesso tema concettuale](../../../../Zero/docs/wiki/concepts/code-redundancy-theme.md)
+- [User auth owner](../../../../../Modules/User/docs/wiki/concepts/code-redundancy-user.md)
+>>>>>>> a521db2 (.)

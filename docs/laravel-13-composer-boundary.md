@@ -37,4 +37,8 @@ After Laravel 13 Composer resolution:
 ## References
 
 - Theme PRD: [prd.md](prd.md)
+<<<<<<< HEAD
 - Xot Composer strategy: [../../../laravel/Modules/Xot/docs/laravel-13-modular-composer-upgrade.md](../../../laravel/Modules/Xot/docs/laravel-13-modular-composer-upgrade.md)
+=======
+- Xot Composer strategy: [../../../laravel/Modules/Xot/docs/laravel-13-modular-composer-upgrade.md](../../../Modules/Xot/docs/laravel-13-modular-composer-upgrade.md)
+>>>>>>> a521db2 (.)

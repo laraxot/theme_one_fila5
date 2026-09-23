@@ -8,6 +8,10 @@ related:
 
 # Html2Pdf — advanced
 
+<<<<<<< HEAD
 Stub **DRY**. Documentazione canonica nel modulo **Media** (issue [#124](https://github.com/provtv/base_ptv_fila5_mono/issues/124)).
+=======
+Stub **DRY**. Documentazione canonica nel modulo **Media** (issue [#124](https://github.com/provtv/<repo progetto>/issues/124)).
+>>>>>>> a521db2 (.)
 
 → [advanced.md](../../../../Modules/Media/docs/html2pdf/advanced.md)

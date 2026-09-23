@@ -535,7 +535,11 @@ class ThemePdfMigrator
 
 ### PDF Integration
 - [HTML2PDF Best Practices](../../Modules/Xot/docs/html2pdf-best-practices.md)
+<<<<<<< HEAD
 - [PDF Actions Overview](../../Modules/Xot/docs/actions/pdf-actions-overview.md)
+=======
+- [PDF Actions Overview](../../../Modules/Xot/docs/actions/pdf-actions-overview.md)
+>>>>>>> a521db2 (.)
 - [HTML2PDF Complete Guide](../../Modules/Xot/docs/html2pdf-complete-guide.md)
 
 ---

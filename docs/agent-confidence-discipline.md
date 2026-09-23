@@ -9,7 +9,11 @@ related:
   - "../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md"
   - "../../../../docs/wiki/rules/agent-confidence-protocol.md"
   - "./folio-pages-structure.md"
+<<<<<<< HEAD
 issue: "https://github.com/provtv/base_ptv_fila5/issues/152"
+=======
+issue: "https://github.com/provtv/<repo progetto>/issues/152"
+>>>>>>> a521db2 (.)
 ---
 
 # Disciplina agenti per massimizzare la confidenza

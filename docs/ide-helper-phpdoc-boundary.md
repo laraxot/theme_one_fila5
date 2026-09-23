@@ -61,5 +61,10 @@ Per dettaglio: [ide-helper-philosophy](../../Modules/Xot/docs/ide-helper-philoso
 ## Collegamenti
 
 - [code quality tools](./code-quality-tools.md)
+<<<<<<< HEAD
 - [Xot — ide helper governance](../../Modules/Xot/docs/ide-helper-models-governance.md)
 - [Zero — stesso confine](../Zero/docs/ide-helper-phpdoc-boundary.md)
+=======
+- [Xot — ide helper governance](../../../Modules/Xot/docs/ide-helper-models-governance.md)
+- [Zero — stesso confine](../../Zero/docs/ide-helper-phpdoc-boundary.md)
+>>>>>>> a521db2 (.)

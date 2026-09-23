@@ -1,7 +1,25 @@
+<<<<<<< HEAD
+=======
+---
+title: "Graphify Knowledge Graph"
+type: index
+tags: [theme, one, readme]
+created: 2026-08-02
+updated: 2026-09-02
+qmd: "one theme graphify knowledge graph"
+---
+>>>>>>> a521db2 (.)
 # Graphify Knowledge Graph
 
 ## Overview
 
+<<<<<<< HEAD
+=======
+> `graphify-out/` è output generato (`graphify extract`), ignorato da `.gitignore`
+> del tema e non versionato dal 2 settembre 2026 (story 5.77): 34 file di cache AST
+> erano finiti in git il 2 agosto. Si rigenera, non si committa.
+
+>>>>>>> a521db2 (.)
 This directory contains the knowledge graph for the **One** theme, generated using [Graphify](https://graphify.dev/). The graph provides a comprehensive visualization of code dependencies, architecture, and relationships within the theme.
 
 ## Quick Start

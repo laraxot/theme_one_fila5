@@ -9,7 +9,11 @@ related:
   - "../../../../docs/wiki/rules/agent-confidence-protocol.md"
   - "./folio-pages-structure.md"
 issues:
+<<<<<<< HEAD
   - https://github.com/provtv/base_ptv_fila5/issues/124
+=======
+  - https://github.com/provtv/<repo progetto>/issues/124
+>>>>>>> a521db2 (.)
 ---
 
 # Massima confidenza agente

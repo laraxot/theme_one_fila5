@@ -76,7 +76,11 @@ Per documentazione dettagliata su tutti gli strumenti di qualità, consultare:
 
 ## 🎨 Implicazioni per Tema One
 
+<<<<<<< HEAD
 ### Model casting (Laravel 12)
+=======
+### Model casting (Laravel 13)
+>>>>>>> a521db2 (.)
 
 Nei modelli Eloquent del progetto è vietato usare la proprietà `protected $casts`.
 Il casting deve essere definito tramite il metodo `protected function casts(): array`.
