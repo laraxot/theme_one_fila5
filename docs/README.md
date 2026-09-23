@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ---
 title: "Theme Documentation"
 type: index
@@ -8,7 +6,6 @@ created: 2026-05-19
 updated: 2026-07-31
 qmd: "one theme theme documentation"
 ---
->>>>>>> a521db2 (.)
 # Theme Documentation
 
 This directory contains documentation for the theme.

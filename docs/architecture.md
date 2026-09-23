@@ -27,8 +27,6 @@ One theme architecture and design patterns for Laraxot PTVX.
 - Build passes without errors
 - Components render correctly
 - Performance optimized
-<<<<<<< HEAD
-=======
 
 ---
 
@@ -77,4 +75,3 @@ Minimal theme skeleton for future frontend development and customization
 - **Build**: npm run build passes
 - **Lint**: Tailwind/Pug linter checks
 - **Preview**: Theme renders correctly in browser
->>>>>>> a521db2 (.)

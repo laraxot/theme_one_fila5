@@ -50,11 +50,7 @@ Xot ← UI ← Geo, User, Tenant, Activity, …
 - Il modulo **UI non dipende** da Geo (o altri moduli domain-specific)
 - Il modulo **Geo può dipendere** da UI
 - Componenti geografici (mappe, geocoding, location) → solo `Modules/Geo/` **se** il monorepo lo include
-<<<<<<< HEAD
 - In `base_ptvx_fila5` **Geo non c’è**: i temi **non** devono importare `LocationSelector` / mappe da UI (rimossi da UI il 2026-07-22)
-=======
-- In `<repo progetto>` **Geo non c’è**: i temi **non** devono importare `LocationSelector` / mappe da UI (rimossi da UI il 2026-07-22)
->>>>>>> a521db2 (.)
 - Canon UI: [geo-boundary.md](../../../Modules/UI/docs/geo-boundary.md) · [dependency-rules.md](../../../Modules/UI/docs/dependency-rules.md)
 
 ### Correzione 2026-07-22 (riferimento temi)

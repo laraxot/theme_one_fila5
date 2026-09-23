@@ -43,8 +43,6 @@ Theme One is the primary "Super Mucca" interface for the PTVX system. It provide
 - Passes WCAG 2.1 AA automated audit.
 - Visual consistency across all 35+ Laraxot modules.
 - Responsive verification for Desktop, Tablet, and Mobile.
-<<<<<<< HEAD
-=======
 
 ---
 
@@ -144,4 +142,3 @@ The One theme provides a consistent, maintainable frontend experience using Blad
 - All components render correctly
 - Theme switching functional
 - Documentation complete
->>>>>>> a521db2 (.)

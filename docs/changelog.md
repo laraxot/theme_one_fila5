@@ -8,7 +8,7 @@ updated: "2026-06-18"
 related:
   - README.md
   - ../README.md
-  - ../../../Zero/docs/changelog.md
+  - ../../Zero/docs/changelog.md
 ---
 
 # Changelog — One Theme
@@ -19,11 +19,7 @@ Version history for One theme (skeleton/starter theme). Follows Semantic Version
 
 - **Semantic Versioning**: MAJOR.MINOR.PATCH (e.g., 1.0.0)
 - **Source**: Git tags + conventional commits
-<<<<<<< HEAD
-- **Documentation**: Maintained in this file + root CHANGELOG.md
-=======
 - **Documentation**: Maintained in this file + root changelog.md
->>>>>>> a521db2 (.)
 - **Breaking changes**: Always marked with ⚠️ emoji
 - **Note**: One is a **skeleton theme** — no built-in CSS build, intentionally minimal
 
@@ -241,5 +237,5 @@ A: Filament is separate from the theme. Follow [Filament installation guide](htt
 - [Component Guide](./component-guide.md) — Components reference
 - [Customization Guide](./customization.md) — How to extend
 - [../README.md](../README.md) — Root theme README
-- [../../Zero/docs/changelog.md](../../../Zero/docs/changelog.md) — Zero version history
+- [../../Zero/docs/changelog.md](../../Zero/docs/changelog.md) — Zero version history
 - [../../../../docs/wiki/themes/](../../../../docs/wiki/themes/) — Project-wide theme docs

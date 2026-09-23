@@ -6,16 +6,12 @@ status: draft
 tags: [redundancy, theme, blade, layout]
 created: "2026-05-27"
 updated: "2026-05-27"
-<<<<<<< HEAD
 issue: "https://github.com/provtv/base_ptv_fila5_mono/issues/162"
-=======
-issue: "https://github.com/provtv/<repo progetto>/issues/162"
->>>>>>> a521db2 (.)
 related:
   - ../code-redundancy-audit.md
-  - ../../../Modules/Ptv/docs/wiki/redundancy-audit.md
-  - ../../../Modules/Ptv/docs/wiki/ptv-sigma-shared-surface-catalog.md
-  - ../../../Modules/Xot/docs/wiki/concepts/ptv-sigma-redundancy-ownership.md
+  - ../../../../Modules/Ptv/docs/wiki/redundancy-audit.md
+  - ../../../../Modules/Ptv/docs/wiki/ptv-sigma-shared-surface-catalog.md
+  - ../../../../Modules/Xot/docs/wiki/concepts/ptv-sigma-redundancy-ownership.md
 ---
 
 # Audit ridondanza temi

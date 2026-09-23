@@ -89,8 +89,4 @@ related:
 
 - [index](./wiki/index.md)
 - [log](./wiki/log.md)
-<<<<<<< HEAD
-- [SCHEMA](./wiki/SCHEMA.md)
-=======
 - [SCHEMA](./wiki/schema.md)
->>>>>>> a521db2 (.)

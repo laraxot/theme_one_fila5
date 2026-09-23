@@ -6,7 +6,7 @@ tags: [ide, helper, phpdoc, theme, quality]
 created: 2026-07-15
 updated: 2026-07-15
 related:
-  - "../../Modules/Xot/docs/ide-helper-philosophy.md"
+  - "../../../Modules/Xot/docs/ide-helper-philosophy.md"
   - "./code-quality-tools.md"
   - "./model-docs-governance.md"
 ---
@@ -50,7 +50,7 @@ Segnalazioni attive su `TranslationFile` e token OAuth **non bloccano** il build
 - Filament/Lang che espone `TranslationFile` in admin perde autocompletamento finché la classe non è analizzabile
 - Flussi OAuth documentati in User restano tipizzati parzialmente su `OauthToken`
 
-Per dettaglio: [ide-helper-philosophy](../../Modules/Xot/docs/ide-helper-philosophy.md).
+Per dettaglio: [ide-helper-philosophy](../../../Modules/Xot/docs/ide-helper-philosophy.md).
 
 ## Checklist tema (post-wave moduli)
 
@@ -61,10 +61,5 @@ Per dettaglio: [ide-helper-philosophy](../../Modules/Xot/docs/ide-helper-philoso
 ## Collegamenti
 
 - [code quality tools](./code-quality-tools.md)
-<<<<<<< HEAD
-- [Xot — ide helper governance](../../Modules/Xot/docs/ide-helper-models-governance.md)
-- [Zero — stesso confine](../Zero/docs/ide-helper-phpdoc-boundary.md)
-=======
 - [Xot — ide helper governance](../../../Modules/Xot/docs/ide-helper-models-governance.md)
 - [Zero — stesso confine](../../Zero/docs/ide-helper-phpdoc-boundary.md)
->>>>>>> a521db2 (.)
