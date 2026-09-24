@@ -41,3 +41,8 @@ graphify-out/
 # quando un test risolve il path del tema invece della sua tmp dir. Non sono immagini.
 resources/images/g2-*.png
 resources/images/xot100-*.png
+
+# Artefatti audit vietati (rule: tests-auditcoverage-forbidden)
+tests/AuditCoverage/
+audit-coverage/
+.claude-audit/
