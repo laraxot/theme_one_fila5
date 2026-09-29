@@ -8,7 +8,7 @@ updated: "2026-06-18"
 related:
   - component-guide.md
   - customization.md
-  - ../../../Zero/docs/naming-conventions.md
+  - ../../Zero/docs/naming-conventions.md
 sync-rule: "Shared with Zero theme — keep in sync"
 ---
 

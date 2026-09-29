@@ -6,9 +6,9 @@ tags: [redundancy, theme, blade, auth]
 created: "2026-05-26"
 updated: "2026-05-26"
 related:
-  - ../../../../Modules/Xot/docs/wiki/concepts/code-redundancy-philosophy.md
-  - ../../../../Modules/Xot/docs/wiki/redundancy-audit.md
-  - ../../../Zero/docs/wiki/concepts/code-redundancy-theme.md
+  - ../../../../../Modules/Xot/docs/wiki/concepts/code-redundancy-philosophy.md
+  - ../../../../../Modules/Xot/docs/wiki/redundancy-audit.md
+  - ../../../../Zero/docs/wiki/concepts/code-redundancy-theme.md
 ---
 
 # Ridondanza — Theme One

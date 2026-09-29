@@ -9,10 +9,10 @@ created: 2026-07-14
 updated: 2026-09-01
 qmd: "filament resource schemas tables tema one BaseSchedaForm BaseSchedaInfolist"
 related:
-  - ../../Modules/Ptv/docs/scheda-resource-pages-inheritance.md
-  - ../../Modules/IndennitaResponsabilita/docs/base-scheda-form-inheritance.md
-  - ../../Modules/IndennitaResponsabilita/docs/base-scheda-infolist-inheritance.md
-  - ../Zero/docs/filament-resource-schemas-tables.md
+  - ../../../Modules/Ptv/docs/scheda-resource-pages-inheritance.md
+  - ../../../Modules/IndennitaResponsabilita/docs/base-scheda-form-inheritance.md
+  - ../../../Modules/IndennitaResponsabilita/docs/base-scheda-infolist-inheritance.md
+  - ../../Zero/docs/filament-resource-schemas-tables.md
   - ../../../docs/wiki/rules/markdown-file-naming-and-frontmatter.md
 ---
 # Filament Resource: Schemas e Tables (tema One)
@@ -69,7 +69,7 @@ Dettaglio e anti-pattern: [Progressioni — filament-resource-schemas-tables](..
 - [Xot – Filament v5 hybrid pattern](../../../Modules/Xot/docs/wiki/concepts/filament-v5-hybrid-pattern.md)
 - [Progressioni – migrazione in corso](../../../Modules/Progressioni/docs/filament-resource-schemas-tables.md)
 - Select options: enum sul concetto + `EnumTrait` — [Ptv enum-naming-reusable](../../../Modules/Ptv/docs/enum-naming-reusable.md), [filament-select-options-enum](../../../Modules/Ptv/docs/filament-select-options-enum.md)
-- [Progressioni – wire pilota Assenze](../../Modules/Progressioni/docs/filament-resource-wire-assenze.md)
+- [Progressioni – wire pilota Assenze](../../../Modules/Progressioni/docs/filament-resource-wire-assenze.md)
 - [Zero – stesso pattern](../../Zero/docs/filament-resource-schemas-tables.md)
 - [Three – stesso pattern](../../Three/docs/filament-resource-schemas-tables.md)
 

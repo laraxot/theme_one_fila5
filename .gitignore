@@ -4,6 +4,7 @@ docs/legacy/**
 
 # -----------------------------------------------------------------------------
 # Copie residue da merge/rebase o editor (mai committare — es. `.agent~HEAD`, `*.md~head`)
+# -----------------------------------------------------------------------------
 *~HEAD
 *~BASE
 *~LOCAL
@@ -41,18 +42,7 @@ graphify-out/
 resources/images/g2-*.png
 resources/images/xot100-*.png
 
-# Laraxot — quality tool configs forbidden in theme root (2026-09-15)
-rector.php
-phpinsights.php
-
-# Laraxot — forbidden at module/theme root (rector.php, phpinsights.php, .cursor, .windsurf, .vscode)
-/rector.php
-/phpinsights.php
-/.cursor
-/.cursor/
-/.windsurf
-/.windsurf/
-/.vscode
-/.vscode/
-.cursor~*
-.windsurf~*
+# Artefatti audit vietati (rule: tests-auditcoverage-forbidden)
+tests/AuditCoverage/
+audit-coverage/
+.claude-audit/

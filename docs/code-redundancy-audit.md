@@ -6,7 +6,7 @@ tags: [code-audit, redundancy, dry, second-brain, theme]
 created: "2026-05-26"
 updated: "2026-05-26"
 owner: "One"
-issue: "https://github.com/provtv/<repo progetto>/issues/150"
+issue: "https://github.com/provtv/base_ptv_fila5_mono/issues/150"
 ---
 
 # Code redundancy audit — One
@@ -62,7 +62,7 @@ Ridurre rumore, duplicazione e ambiguita' nel codice di questo theme, senza perd
 ## Second Brain 2026 — note operative
 
 - Markdown locale + Git restano la base piu' portabile: gli agenti leggono/scrivono file senza database esterni.
-- agents.md/SKILL.md devono restare manifest leggeri, con YAML/front matter e routing on-demand.
+- AGENTS.md/SKILL.md devono restare manifest leggeri, con YAML/front matter e routing on-demand.
 - I descrittori architetturali navigabili riducono i passi di localizzazione: ogni owner dovrebbe avere mappa scopo -> file chiave.
 - AI utile = recupero mirato, non pre-caricamento: report atomici, QMD, issue e log.
 
