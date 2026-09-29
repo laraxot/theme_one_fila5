@@ -2,11 +2,17 @@
 title: "Dove si configura la tabella di una Resource Filament"
 type: guideline
 theme: One
-updated: 2026-09-01
+updated: 2026-09-29
 qmd: "tabella filament resource table class getTableFilters XotBaseResourceTable HasXotTable list page one"
 ---
 
 # La tabella si configura nella Table class, non nella pagina
+
+## Allineamento User (2026-09-29)
+
+Per User il tema non duplica colonne o azioni: la configurazione vive nelle Table
+class del modulo e i temi consumano il risultato. Tooltip e icone delle azioni
+icon-only devono rimanere tradotti nel modulo owner.
 
 Vale per ogni Resource di questo tema.
 
@@ -16,8 +22,24 @@ Colonne, filtri e azioni di una Resource stanno in
 `app/Filament/Resources/<Nome>Resource/Tables/<Plurale>Table.php`, che estende
 `Modules\Xot\Filament\Resources\Tables\XotBaseResourceTable`.
 
-**Non** nella pagina `Pages/List<Plurale>.php`. Quello che scrivi li' dentro non viene
-letto da nessuno.
+**Non** nella pagina `Pages/List<Plurale>.php`. Li' dentro un hook `getTable*` e' un
+difetto, e il tipo di difetto dipende dal nome:
+
+| Hook dichiarato sulla pagina | Cosa succede |
+|---|---|
+| `getTableColumns()` | **fatal** "Cannot override final method": `XotBaseListRecords::getTableColumns()` e' `final` **di proposito**. Si prende la pagina intera, non solo la tabella. |
+| gli altri `getTable*` | **silenzioso**: la pagina si apre, la tabella c'e', ma filtri, azioni e override vengono applicati fuori ordine rispetto alla Resource, senza errore ne' log. |
+
+La guardia e' `Modules/Xot/tests/Unit/Filament/TableColumnsBelongsToTableClassTest.php` e
+`Modules/Xot/tests/Unit/ListPageHasTableClassTest.php`.
+
+### L'eccezione: `XotBaseManageRelatedRecords`
+
+Le pagine che estendono `XotBaseManageRelatedRecords` **possono** dichiarare `getTable*`, e il
+punto e' previsto: li' `table()` e' `final`, il valore di ritorno conta
+(`$this->relatedResourceTable = $resourceClass::table($table)`) e le azioni header dipendono
+dal **contesto owner** (`$this->getRecord()`, `$this->getOwnerRecord()`), che la Resource
+correlata non conosce. Verificato in `XotBaseManageRelatedRecords.php:253-270`.
 
 ```php
 namespace Modules\…\Filament\Resources\FooResource\Tables;
@@ -38,12 +60,18 @@ class FoosTable extends XotBaseResourceTable
 
 ```
 List<Plurale>  (estende XotBaseListRecords)
-  -> Filament: ListRecords::table()
-    -> <Nome>Resource::table()            (XotBaseResource)
-      -> ::getTableClass()                risolve <Plurale>Table
-        -> XotBaseResourceTable::configure()
-          -> HasXotTable::table()          legge getTableColumns/Filters/Actions
+  -> Filament: ListRecords::makeTable()                (ListRecords.php:213)
+    -> <Nome>Resource::configureTable($table)          (Resource.php:81)
+      -> static::table($table)                         il valore di ritorno e' IGNORATO
+        -> XotBaseResource::table()                    (XotBaseResource.php:202)
+          -> ::getTableClass()                         risolve <Plurale>Table
+            -> XotBaseResourceTable::configure()
+              -> app(static::class) + HasXotTable::table()   legge getTableColumns/Filters/Actions
 ```
+
+La riga 213 di `ListRecords::makeTable()` e' **il** punto in cui la Resource prende il
+controllo della tabella. Da li in giu nessun hook della pagina viene consultato: e' per questo
+che `getTableColumns()` e' `final` — un override e' un crash, non una colonna ignorata.
 
 `XotBaseListRecords` **non usa** `HasXotTable`. Se lo usasse, definirebbe `table()` sulla
 pagina, e in Filament il `table()` della pagina vince su quello della Resource: la Table
@@ -123,6 +151,28 @@ php artisan tinker --execute="echo <Nome>Resource::getTableClass();"
 
 Se quello che vedi a schermo non corrisponde a quel file, stai modificando il file
 sbagliato.
+
+## Come verificare che non ci sia un hook sulla pagina (tokenizer, non grep)
+
+`grep -n "function getTable"` dà **42 falsi positivi**: blocchi di commento `/* ... */` attorno a
+metodi morti e metodi con prefisso custom (`notificationTableColumns`). Peggio, un
+`preg_match` su quei blocchi farebbe scattare la guardia **disattivandola** invece di farla
+rispettare — verde per il motivo sbagliato. Caso reale:
+`Performance/.../ListOrganizzativas.php` ha un `/* ... */` attorno a un vecchio
+`getTableColumns()`.
+
+Verifica con `token_get_all` (`T_FUNCTION` + `T_STRING`), come fa `declaresMethod()` nel test
+di guardia, risolvendo la catena dei genitori fino a `XotBaseListRecords`. Se `rg` non e'
+installato nell'ambiente, `grep` va bene per una ricerca esplorativa, ma **non** per una
+verifica di conformita'.
+
+## Quando il metodo e' gia' nella Table class
+
+Se trovi che la `Table` class ha gia' il metodo che stai per spostare, **non spostarlo**: stai
+creando un terzo posto. Togli il duplicato dalla pagina e basta. E' successo il
+2026-09-29 su 6 `BaseList*` del modulo `Ptv`: i metodi erano gia' stati copiati nelle
+`*Table` corrispondenti, quindi il lavoro era la rimozione. Vedi
+`Modules/Xot/docs/bmad/stories/5.254-list-page-table-hooks.story.md`.
 
 ## Storia, per non ripeterla
 

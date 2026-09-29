@@ -46,3 +46,7 @@ resources/images/xot100-*.png
 tests/AuditCoverage/
 audit-coverage/
 .claude-audit/
+
+/.github/skills/
+.github/skills
+/docs/graphify/
