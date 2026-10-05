@@ -34,7 +34,7 @@ related:
 - [phpstan-level10-analysis](./phpstan-level10-analysis.md)
 - [duplicate-methods](./duplicate-methods.md)
 - [duplicate-methods-report](./duplicate-methods-report.md)
-- [metodi-duplicati-censimento](./metodi-duplicati-censimento.md)
+- [metodi-duplicati-analisi](./shared-components/metodi-duplicati-analisi.md)
 - [dry-kiss-analysis](./dry-kiss-analysis.md)
 - [dry-kiss-matr-ente-relationships](./dry-kiss-matr-ente-relationships.md)
 - [readonly-field-styling](./readonly-field-styling.md)

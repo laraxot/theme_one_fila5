@@ -1,0 +1,6 @@
+LOCKED at 2026-10-05T09:53:14+02:00
+Task: docs-100-merge
+Agent: agente-6
+Session: unknown
+PID: 114248
+PID note: subshell di lock.sh, gia' terminato — NON usarlo per giudicare il lock stale, guarda 'LOCKED at'
