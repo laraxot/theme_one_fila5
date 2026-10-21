@@ -81,3 +81,10 @@ docs-only. Nessun commit/push.
   in passate pulizie. Non sono negli indici/README e non bloccano la navigazione.
 - Il contenuto di One resta in gran parte dichiarativo: il tema è uno skeleton e
   non ha ancora codice applicativo proprio.
+
+## Note docs-guardian (swarm PHPStan 2026-10-21b)
+
+Verificato: organizzazione temi già chiusa. Nessuna feature inventata; lavoro
+docs di dominio nella stessa ondata sta nei moduli Progressioni/Sigma/Ptv/Pdnd
+(vedi story orchestratrice Xot `phpstan-modules-swarm-20261021`).
+
