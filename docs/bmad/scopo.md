@@ -221,7 +221,7 @@ grep -rn "laravel/public\b" Themes/One --include='*.js' --include='*.json' --inc
 
 ## Collegamenti
 
-- [Themes/Zero/docs/scopo.md](../../Zero/docs/scopo.md) — il tema di cui One è la copia
-- [Themes/Three/docs/scopo.md](../../Three/docs/scopo.md) — il terzo tema, un file
+- [Themes/Zero/docs/scopo.md](./scopo.md) — il tema di cui One è la copia
+- [Themes/Three/docs/scopo.md](./scopo.md) — il terzo tema, un file
 - [public-path-is-public-html](../../../../docs/wiki/memories/public-path-is-public-html.md) — perché non esiste `laravel/public`
-- [Modules/UI/docs/scopo.md](../../../Modules/UI/docs/scopo.md) — dove vivono i componenti condivisi
+- [Modules/UI/docs/scopo.md](./scopo.md) — dove vivono i componenti condivisi

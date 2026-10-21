@@ -1,6 +1,7 @@
 ---
 title: Pandoc Documentation Generation Guide
 description: Generate theme documentation in multiple formats using Pandoc
+qmd: "one theme Pandoc Documentation Generation Guide pandoc guide"
 ---
 
 # Pandoc Documentation Generation — Theme

@@ -6,6 +6,7 @@ created: "2026-07-21"
 updated: "2026-07-23"
 related:
   - "../../../bashscripts/tools/prompts/02-gitmodules-sync.md"
+qmd: "one theme Sincronizzazione multi-organizzazione (laraxot + provtv) multi org sync laraxot provtv"
 ---
 
 # Sincronizzazione multi-organizzazione (laraxot + provtv)

@@ -48,14 +48,6 @@ Theme One is the primary "Super Mucca" interface for the PTVX system. It provide
 
 <!-- Merged from PRD.md, which collided with this file on case-insensitive filesystems. -->
 
----
-title: "Product Requirements Document (PRD) - One Theme"
-theme: "One"
-type: concept
-tags: [PRD, theme, one, frontend]
-created: 2026-08-04
-updated: 2026-08-04
----
 # Product Requirements Document (PRD) - One Theme
 
 **Theme**: One
@@ -130,6 +122,7 @@ The One theme provides a consistent, maintainable frontend experience using Blad
 
 ### Dependencies
 - Laravel 13+
+- Laravel 12+
 - Blade templates
 - Tailwind CSS v4
 - Vite build tool

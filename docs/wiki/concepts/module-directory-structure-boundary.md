@@ -5,6 +5,7 @@ updated: 2026-06-18
 related:
   - ../../../../../docs/wiki/rules/module-root-php-folders-forbidden.md
   - ../../../../../../laravel/Modules/Xot/docs/module-directory-structure-rule.md
+qmd: "one theme module-directory-structure-boundary — puntatore module directory structure boundary"
 ---
 
 # Struttura directory — confine tema vs modulo

@@ -25,7 +25,7 @@ Documentazione sugli strumenti di qualità codice utilizzati nel progetto, con r
 
 Per documentazione dettagliata su tutti gli strumenti di qualità, consultare:
 
-- [**Root: Code Quality**](../../../docs/claude/code-quality.md) - Guida completa strumenti qualità
+- [**Root: Code Quality**](../wiki/roadmap/code-quality.md) - Guida completa strumenti qualità
 - [**Sigma: Mago e Rector Tools**](../../../Modules/Sigma/docs/mago-rector-tools.md) - Guida Mago e Rector Laravel
 - [**Xot: Quality Tools Zen**](../../../Modules/Xot/docs/quality-tools-zen.md) - Filosofia strumenti qualità
 
@@ -104,6 +104,6 @@ Vedi [Common Errors](./common-errors.md) per dettagli.
 ## 🔗 Collegamenti
 
 - [Common Errors](./common-errors.md) - Errori comuni tema One
-- [Root: Code Quality](../../../docs/claude/code-quality.md) - Guida completa
+- [Root: Code Quality](../wiki/roadmap/code-quality.md) - Guida completa
 
 **Ultimo Aggiornamento**: Gennaio 2025

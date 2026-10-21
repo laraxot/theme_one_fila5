@@ -9,6 +9,7 @@ related:
   - ../../../../../../docs/wiki/analysis/method-name-homonym-census.md
   - ../../../../Modules/Sigma/docs/wiki/concepts/method-name-homonyms.md
   - ./code-redundancy-theme.md
+qmd: "one theme omonimi metodi php — impatto temi php method name homonyms theme impact"
 ---
 
 # Omonimi metodi PHP — impatto temi

@@ -69,8 +69,8 @@ Allineare namespace, percorsi e naming conventions per ridurre ambiguita e dupli
 
 ## Collegamenti correlati
 
-- [`Roadmap tema One`](../roadmap.md)
+- [`Roadmap tema One`](../../bmad/roadmap.md)
 - [`code-quality.md`](code-quality.md)
 - [`documentation-consolidation.md`](documentation-consolidation.md)
-- [`namespace-conventions.md`](../namespace-conventions.md)
+- [`namespace-conventions.md`](./namespace-conventions.md)
 - [`links.md`](../links.md)

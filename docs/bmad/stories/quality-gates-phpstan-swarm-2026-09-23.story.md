@@ -5,6 +5,7 @@ status: done
 scope: laravel/Themes/One
 created: 2026-09-23
 updated: 2026-09-23
+qmd: "one theme PHPStan gate check — Themes/One (swarm 21 moduli) quality gates phpstan swarm 2026 09 23.story"
 ---
 
 # PHPStan gate check — Themes/One

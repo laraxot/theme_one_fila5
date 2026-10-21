@@ -12,6 +12,7 @@ related:
   - ../../../../Modules/Ptv/docs/wiki/redundancy-audit.md
   - ../../../../Modules/Ptv/docs/wiki/ptv-sigma-shared-surface-catalog.md
   - ../../../../Modules/Xot/docs/wiki/concepts/ptv-sigma-redundancy-ownership.md
+qmd: "one theme audit ridondanza temi (one zero three) redundancy audit"
 ---
 
 # Audit ridondanza temi

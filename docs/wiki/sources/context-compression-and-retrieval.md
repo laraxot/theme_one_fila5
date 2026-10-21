@@ -6,6 +6,7 @@ created: "2026-04-29T00:00:00Z"
 updated: "2026-05-12T10:32:00Z"
 related:
   - "[[Theme One Operating Focus]]"
+qmd: "one theme Context Compression and Retrieval context compression and retrieval"
 ---
 
 # Context Compression and Retrieval

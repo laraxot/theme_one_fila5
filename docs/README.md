@@ -9,7 +9,9 @@ qmd: "Theme One documentazione BMAD wiki"
 
 Ingresso canonico alla documentazione del tema.
 
-- [BMAD](bmad/)
-- [Wiki](wiki/)
-- [Stories](stories/)
-- [Indice generale](../../../../docs/README.md)
+- [Indice docs](./index.md)
+- [BMAD](./bmad/)
+- [Wiki](./wiki/)
+- [Stories](./bmad/stories/)
+- [Filament blueprint](./bmad/filament-blueprint.md)
+- [Linee guida monorepo](../../../../AGENTS.md)

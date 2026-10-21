@@ -1,52 +1,72 @@
 ---
-title: "Wiki Index"
-module: "One"
-updated: "2026-05-12T10:15:00Z"
+title: "Wiki Index — Theme One"
+type: index
+theme: One
+status: active
+created: 2026-05-12
+updated: 2026-10-21
+tags: [theme, one, wiki, index]
+qmd: "theme one wiki index concetti regole fonti second brain roadmap"
+related:
+  - ./log.md
+  - ../bmad/index.md
 ---
 
-# Wiki Index — One
+# Wiki Index — Theme One
 
-> **Purpose:** Content-oriented catalog of all wiki pages in this module.  
-> **Replaces embedding-based RAG at moderate scale (~100 sources).**
+Catalogo dei contenuti curati della wiki locale. L'ingresso del tema resta
+[../README.md](../README.md).
 
-## Concepts
+## Concetti
 
-- [theme-one-operating-focus](./concepts/theme-one-operating-focus.md) — operating position, guardrails, and interpretation of Theme One strategy
-- [folio-pages-structure](../folio-pages-structure.md) — FO `pages/` su ptvx (auth/home; no mkdir dominio)
-- [method-name-homonyms](./concepts/method-name-homonyms.md) — censimento omonimi metodi (0 nel tema; logica nei moduli)
-- [php-method-name-homonyms-theme-impact](./concepts/php-method-name-homonyms-theme-impact.md) — impatto omonimi PHP sul tema vs moduli
-- [second-brain-local-discipline](./concepts/second-brain-local-discipline.md) — puntatore Xot + folio locale
+- [Focus operativo del tema](./concepts/theme-one-operating-focus.md)
+- [Folio pages — struttura](../bmad/folio-pages-structure.md)
+- [Omonimie dei metodi](./concepts/method-name-homonyms.md)
+- [Impatto omonimie PHP sul tema](./concepts/php-method-name-homonyms-theme-impact.md)
+- [Second brain locale](./concepts/second-brain-local-discipline.md)
+- [Struttura directory moduli](./concepts/module-directory-structure-boundary.md)
+- [Duplicate method bodies](./concepts/duplicate-method-bodies.md)
+- [Ridondanza nel tema](./concepts/code-redundancy-theme.md)
 
-## Entities
+## Regole e disciplina
 
-_No entities tracked yet._
+- [Regole architetturali](./architecture-rules.md)
+- [Disciplina di confidenza](./agent-confidence-discipline.md)
+- [Protocollo di confidenza](./agent-confidence-protocol.md)
+- [Disciplina di modifica](./agent-edit-discipline.md)
+- [Asset binari](./binary-assets.md)
+- [Compressione e retrieval](./concepts/context-overflow-prevention.md)
 
-## Sources
+## Fonti e sintesi
 
-- [context-compression-and-retrieval](./sources/context-compression-and-retrieval.md) — summary of the shared prompt-compression setup for theme docs workflows
-- [theme-one-product-and-roadmap-docs](./sources/theme-one-product-and-roadmap-docs.md) — summary of README, analysis, strategy, and roadmap cluster
+- [Context compression and retrieval](./sources/context-compression-and-retrieval.md)
+- [Theme One product e roadmap](./sources/theme-one-product-and-roadmap-docs.md)
 
-## Shared Rules On-Demand
+## Filament e UI
 
-- [contract-interface-stacking](../../../../../docs/wiki/rules/contract-interface-stacking.md) — pattern contratti compositi (impatto indiretto su modelli usati dal tema)
-- [filament-resource-property](../../../../../docs/wiki/rules/filament-resource-property.md) — `$resource` nelle page Filament resta `protected static string`, con auto-resolve via `XotBaseListRecords`
-- [xotbase-critical-rules](../../../../../docs/wiki/rules/xotbase-critical-rules.md) — guardrail XotBase/Laraxot da riusare anche nelle page e risorse del tema
+- [Versione Filament](./filament-version.md)
+- [Schema e tabelle Filament](./filament-resource-schemas-tables.md)
+- [Architettura tabelle Filament](./filament-table-architecture.md)
+- [Sottomenu admin](./filament-admin-sub-navigation.md)
 
-## Shared Skills On-Demand
+## Roadmap
 
-- [filament-page-creation](../../../../Modules/Xot/docs/wiki/skills/filament-page-creation.md) — skill riusabile per creare page Filament coerenti con XotBase e LangServiceProvider
+- [Documentation consolidation](./roadmap/documentation-consolidation.md)
+- [Namespace conventions](./roadmap/namespace-conventions.md)
+- [Code quality](./roadmap/code-quality.md)
+- [HTML2PDF](./roadmap/html2pdf-integration.md)
+- [Charts](./roadmap/charts-integration.md)
 
-## Comparisons
+## Altro
 
-_No comparisons synthesized yet._
-
----
-
-**Last Updated:** 2026-05-12T10:15:00Z  
-**Total Pages:** 3  
-**Total Raw Sources:** 4
-**Shared References:** 3
-
-## Shared Second Brain Discipline
-
-- [second-brain-local-discipline](./concepts/second-brain-local-discipline.md) — local docs/wiki operating contract aligned with root LLM Wiki discipline.
+- [Log wiki](./log.md)
+- [Overview](./overview.md)
+- [Schema](./schema.md)
+- [Readme inglese](./readme-en.md)
+- [Prompt push](./prompts/push.md)
+- [HTML2PDF index](./html2pdf/index.md)
+- [Chart theme integration](./charts/theme-integration.md)
+- [Metodi duplicati — analisi condivisa](./shared-components/metodi-duplicati-analisi.md)
+- [Ridondanza — audit](./redundancy-audit.md)
+- [Ridondanza temi](./redundancy-audit-themes.md)
+- [Cosa migliorare](./cosa-migliorare.md)

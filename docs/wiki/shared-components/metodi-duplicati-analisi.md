@@ -3,6 +3,7 @@ type: analysis
 topic: METODI_DUPLICATI_CENSIMENTO
 tags: [metodi-duplicati, refactoring, code-quality, dry]
 description: Censimento completo dei metodi con nome uguale in moduli diversi, con classificazione per modulo e analisi di refactoring
+qmd: "one theme metodi duplicati analisi metodi duplicati analisi"
 ---
 
 # Metodi Duplicati — Censimento Completo

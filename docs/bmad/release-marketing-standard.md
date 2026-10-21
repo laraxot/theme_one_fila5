@@ -6,6 +6,7 @@ tags: [release, semantic-versioning, changelog, readme, marketing]
 created: "2026-05-26"
 updated: "2026-05-26"
 issue: "https://github.com/provtv/base_ptv_fila5_mono/issues/153"
+qmd: "one theme Release e README marketing — One release marketing standard"
 ---
 
 # Release e README marketing — One

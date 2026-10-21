@@ -4,6 +4,7 @@ type: "patterns"
 tags: ["dry", "kiss", "relationships", "sigma", "patterns"]
 created: "2026-06-15"
 updated: "2026-06-15"
+qmd: "one theme HasMany matr/ente Pattern - DRY + KISS dry kiss matr ente relationships"
 ---
 
 # HasMany matr/ente Pattern - DRY + KISS

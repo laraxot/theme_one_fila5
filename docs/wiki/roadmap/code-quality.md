@@ -69,8 +69,8 @@ Consolidare le regole di qualita e l'uso coerente degli strumenti statici.
 
 ## Collegamenti correlati
 
-- [`Roadmap tema One`](../roadmap.md)
+- [`Roadmap tema One`](../../bmad/roadmap.md)
 - [`charts-integration.md`](charts-integration.md)
 - [`html2pdf-integration.md`](html2pdf-integration.md)
-- [`code-quality-tools.md`](../code-quality-tools.md)
-- [`theme-analysis.md`](../theme-analysis.md)
+- [`code-quality-tools.md`](../../bmad/code-quality-tools.md)
+- [`theme-analysis.md`](../../bmad/theme-analysis.md)

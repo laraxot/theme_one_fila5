@@ -25,7 +25,7 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 
 - Workflow: [Semantic Release](./.github/workflows/semantic-release.yml)
 - Config: [.releaserc.json](./.releaserc.json)
-- Changelog: [changelog.md](./changelog.md)
+- Changelog: [changelog.md](../bmad/changelog.md)
 
 
 ## Documentazione tecnica
@@ -35,15 +35,15 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 ## Documentazione essenziale
 
 - [Second brain locale](./wiki/index.md)
-- [Audit ridondanza](./code-redundancy-audit.md)
+- [Audit ridondanza](../bmad/code-redundancy-audit.md)
 - [Protocollo confidenza](./agent-confidence-protocol.md)
 - [Disciplina agenti](./agent-edit-discipline.md)
-- [Advanced Manage Related Records](./advanced-manage-related-records.md)
+- [Advanced Manage Related Records](../bmad/advanced-manage-related-records.md)
 - [Architecture Rules](./architecture-rules.md)
 - [Charts Integration](./charts-integration.md)
-- [Code Quality Tools](./code-quality-tools.md)
-- [Common Errors](./common-errors.md)
-- [Docs Archive Policy](./docs-archive-policy.md)
+- [Code Quality Tools](../bmad/code-quality-tools.md)
+- [Common Errors](../bmad/common-errors.md)
+- [Docs Archive Policy](../bmad/docs-archive-policy.md)
 
 ## Filosofia
 

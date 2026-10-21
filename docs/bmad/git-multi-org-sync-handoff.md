@@ -9,6 +9,7 @@ issues:
   - "https://github.com/provtv/theme_one_fila5/issues/6"
 discussions:
   - "https://github.com/provtv/theme_one_fila5/discussions/7"
+qmd: "one theme Handoff multi-org sync (STORY-003) git multi org sync handoff"
 ---
 
 # Handoff — multi-org sync (STORY-003)

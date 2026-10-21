@@ -9,6 +9,7 @@ related:
   - README.md
   - ../README.md
   - ../../Zero/docs/changelog.md
+qmd: "one theme Changelog — One Theme changelog"
 ---
 
 # Changelog — One Theme
@@ -237,5 +238,5 @@ A: Filament is separate from the theme. Follow [Filament installation guide](htt
 - [Component Guide](./component-guide.md) — Components reference
 - [Customization Guide](./customization.md) — How to extend
 - [../README.md](../README.md) — Root theme README
-- [../../Zero/docs/changelog.md](../../Zero/docs/changelog.md) — Zero version history
+- [../../Zero/docs/changelog.md](./changelog.md) — Zero version history
 - [../../../../docs/wiki/themes/](../../../../docs/wiki/themes/) — Project-wide theme docs

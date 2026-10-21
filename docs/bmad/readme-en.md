@@ -1,3 +1,10 @@
+---
+title: "readme en"
+type: note
+status: active
+qmd: "one theme readme en"
+---
+
 # One: il tema che trasforma complessita in vantaggio operativo
 
 One theme for Laraxot PTVX: minimal theme skeleton for future frontend development and customization.
@@ -27,15 +34,15 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 ## Documentazione essenziale
 
 - [Second brain locale](./docs/wiki/index.md)
-- [Audit ridondanza](./docs/code-redundancy-audit.md)
-- [Protocollo confidenza](./docs/agent-confidence-protocol.md)
-- [Disciplina agenti](./docs/agent-edit-discipline.md)
-- [Advanced Manage Related Records](./docs/advanced-manage-related-records.md)
-- [Architecture Rules](./docs/architecture-rules.md)
+- [Audit ridondanza](./code-redundancy-audit.md)
+- [Protocollo confidenza](../wiki/agent-confidence-protocol.md)
+- [Disciplina agenti](../wiki/agent-edit-discipline.md)
+- [Advanced Manage Related Records](./advanced-manage-related-records.md)
+- [Architecture Rules](../wiki/architecture-rules.md)
 - [Charts Integration](./docs/charts-integration.md)
-- [Code Quality Tools](./docs/code-quality-tools.md)
-- [Common Errors](./docs/common-errors.md)
-- [Docs Archive Policy](./docs/docs-archive-policy.md)
+- [Code Quality Tools](./code-quality-tools.md)
+- [Common Errors](./common-errors.md)
+- [Docs Archive Policy](./docs-archive-policy.md)
 
 ## Filosofia
 

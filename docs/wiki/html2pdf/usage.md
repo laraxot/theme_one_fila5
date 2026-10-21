@@ -4,10 +4,11 @@ type: reference
 updated: 2026-05-21
 related:
   - "../../../../Modules/Media/docs/html2pdf/usage.md"
+qmd: "one theme html2pdf usage — puntatore usage"
 ---
 
 # Html2Pdf — usage
 
 Stub **DRY**. Documentazione canonica nel modulo **Media** (issue [#124](https://github.com/provtv/base_ptv_fila5_mono/issues/124)).
 
-→ [usage.md](../../../../Modules/Media/docs/html2pdf/usage.md)
+→ [usage.md](./usage.md)

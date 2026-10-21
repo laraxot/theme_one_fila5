@@ -1,3 +1,10 @@
+---
+title: "navigationicon themes audit.story"
+type: note
+status: active
+qmd: "one theme navigationicon themes audit.story"
+---
+
 # navigationIcon audit + consolidation — Themes (One, Three, Zero) — 2026-10-06
 
 ## Epic
