@@ -44,3 +44,7 @@ per il tema One; non introduce una seconda fonte di verita'.
 3. Ogni `.md` ha frontmatter YAML con `qmd`.
 4. Il tema resta presentazione: nessuna business logic, nessun modello, nessuna
    policy.
+
+## Cosa manca per completare
+
+[completion-status.md](./completion-status.md): indicatori misurati, problemi noti e story aperte (2026-10-28).
