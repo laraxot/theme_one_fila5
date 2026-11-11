@@ -12,7 +12,7 @@ related:
 
 # Document root per i temi
 
-Gli asset del tema dopo `npm run build` + `npm run copy` devono finire in **`public_html/themes/{Theme}/`**.
+Gli asset del tema dopo `npm run build` + `symlink public_html/themes (npm run copy obsoleto)` devono finire in **`public_html/themes/{Theme}/`**.
 
 `public_path()` Laravel punta a `public_html/`, **non** a `laravel/public/`.
 
