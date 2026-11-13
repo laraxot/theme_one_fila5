@@ -9,6 +9,7 @@ related:
   - ../../../../../Modules/Xot/docs/wiki/concepts/code-redundancy-philosophy.md
   - ../../../../../Modules/Xot/docs/wiki/redundancy-audit.md
   - ../../../../Zero/docs/wiki/concepts/code-redundancy-theme.md
+qmd: "one theme ridondanza e confini — tema One code redundancy theme"
 ---
 
 # Ridondanza — Theme One

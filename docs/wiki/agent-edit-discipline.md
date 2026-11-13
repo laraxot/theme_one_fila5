@@ -2,6 +2,7 @@
 title: agent edit discipline — puntatore
 type: reference
 updated: 2026-05-21
+qmd: "one theme agent edit discipline — puntatore agent edit discipline"
 ---
 
 # Disciplina edit e qualità (puntatore)

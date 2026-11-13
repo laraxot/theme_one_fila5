@@ -8,6 +8,7 @@ tags: [migrato-da-txt, one]
 converted_from: push.txt
 created: 2026-08-24
 updated: 2026-08-24
+qmd: "one theme Push push"
 ---
 
 Obiettivo: sincronizzare il tema One su tutti i remote GitHub configurati e documentare il percorso.

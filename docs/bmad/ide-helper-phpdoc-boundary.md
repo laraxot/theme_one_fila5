@@ -9,6 +9,7 @@ related:
   - "../../../Modules/Xot/docs/ide-helper-philosophy.md"
   - "./code-quality-tools.md"
   - "./model-docs-governance.md"
+qmd: "one theme ide helper — confine PHPDoc tema One ide helper phpdoc boundary"
 ---
 
 # ide helper — confine PHPDoc tema One
@@ -62,4 +63,4 @@ Per dettaglio: [ide-helper-philosophy](../../../Modules/Xot/docs/ide-helper-phil
 
 - [code quality tools](./code-quality-tools.md)
 - [Xot — ide helper governance](../../../Modules/Xot/docs/ide-helper-models-governance.md)
-- [Zero — stesso confine](../../Zero/docs/ide-helper-phpdoc-boundary.md)
+- [Zero — stesso confine](./ide-helper-phpdoc-boundary.md)

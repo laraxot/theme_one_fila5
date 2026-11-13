@@ -1,92 +1,81 @@
 ---
-title: "Documentation Index — Theme One"
+title: "Indice BMAD — Theme One"
 type: index
-tags: [documentation, index, theme]
+theme: One
+status: active
 created: 2026-07-14
-updated: 2026-07-14
-qmd: "theme one documentation index"
+updated: 2026-10-21
+tags: [documentation, index, theme, one, bmad]
+qmd: "theme one bmad index architecture product filament quality wiki roadmap"
 related:
-  - "./README.md"
+  - ../README.md
+  - ../wiki/index.md
 ---
 
-# Documentation Index — Theme One
+# Indice BMAD — Theme One
 
-## Governance & Rules
+Ingresso del dossier `bmad/`. L'ingresso generale resta [../README.md](../README.md).
 
-- [architecture-rules](./architecture-rules.md)
-- [folio-pages-structure](./folio-pages-structure.md) — FO `pages/` ptvx (auth/home; no cartelle semantiche)
-- [agent-confidence-discipline](./agent-confidence-discipline.md)
-- [agent-confidence-protocol](./agent-confidence-protocol.md)
-- [agent-edit-discipline](./agent-edit-discipline.md)
-- [spatie-permission-team-context](./spatie-permission-team-context.md)
-- [spatie-permission-teams-boundary](./spatie-permission-teams-boundary.md)
-- [laravel-13-composer-boundary](./laravel-13-composer-boundary.md)
-- [laravel-13-upgrade](./laravel-13-upgrade.md)
-- [docs-archive-policy](./docs-archive-policy.md)
-- [docs-deduplication](./docs-deduplication.md)
-- [model-docs-governance](./model-docs-governance.md)
+## Governance e confini
 
-## Code Quality
+- [Architettura](./architecture.md), [scopo](./scopo.md), [purpose](./purpose.md)
+- [Confine temi e migrazioni](./one-migration-themes-boundary.md)
+- [Confine Composer Laravel 13](./laravel-13-composer-boundary.md)
+- [Upgrade Laravel 13](./laravel-13-upgrade.md)
+- [Document root pubblico](./document-root-public-html.md)
+- [Regola public_path](./public-path-public-html.md)
+- [Contesto team Spatie Permission](./spatie-permission-team-context.md)
+- [Confine team Spatie Permission](./spatie-permission-teams-boundary.md)
+- [Politica archivio docs](./docs-archive-policy.md)
+- [Deduplicazione docs](./docs-deduplication.md)
+- [Governance documentazione modelli](./model-docs-governance.md)
+- [Convenzioni di naming](./naming-conventions.md)
+- [Nessun Git LFS](./no-git-lfs.md)
 
-- [code-quality-tools](./code-quality-tools.md)
-- [code-redundancy-audit](./code-redundancy-audit.md)
-- [common-errors](./common-errors.md)
-- [phpstan-level10-analysis](./phpstan-level10-analysis.md)
-- [duplicate-methods](./duplicate-methods.md)
-- [duplicate-methods-report](./duplicate-methods-report.md)
-- [metodi-duplicati-analisi](./shared-components/metodi-duplicati-analisi.md)
-- [dry-kiss-analysis](./dry-kiss-analysis.md)
-- [dry-kiss-matr-ente-relationships](./dry-kiss-matr-ente-relationships.md)
-- [readonly-field-styling](./readonly-field-styling.md)
+## Qualita' del codice
 
-## Product & Strategy
+- [Strumenti di qualita'](./code-quality-tools.md)
+- [Audit ridondanza](./code-redundancy-audit.md)
+- [Errori comuni](./common-errors.md)
+- [PHPStan nel tema](../phpstan-level10-analysis.md)
+- [Metodi duplicati](./duplicate-methods.md) e [report](./duplicate-methods-report.md)
+- [Analisi DRY/KISS](./dry-kiss-analysis.md)
+- [DRY/KISS matr-ente](./dry-kiss-matr-ente-relationships.md)
+- [Campi readonly](./readonly-field-styling.md)
+- [Filament blueprint](./filament-blueprint.md)
 
-- [prd](./prd.md)
-- [product-strategy](./product-strategy.md)
-- [product-requirements](./product-requirements.md)
-- [product-launch-plan](./product-launch-plan.md)
-- [launch-plan](./launch-plan.md)
-- [roadmap](./roadmap.md)
-- [sprint-planning](./sprint-planning.md)
-- [sprint-planning-meeting](./sprint-planning-meeting.md)
-- [strategy](./strategy.md)
-- [user-research](./user-research.md)
-- [theme-analysis](./theme-analysis.md)
+## Prodotto e strategia
 
-## Filament & UI
+- [PRD](./prd.md), [product requirements](./product-requirements.md)
+- [Strategia prodotto](./product-strategy.md)
+- [Launch plan](./launch-plan.md) e [product launch plan](./product-launch-plan.md)
+- [Roadmap](./roadmap.md), [sprint planning](./sprint-planning.md) e
+  [sprint planning meeting](./sprint-planning-meeting.md)
+- [User research](./user-research.md) e [theme analysis](./theme-analysis.md)
 
-- [filament-version](./filament-version.md)
-- [filament-resource-schemas-tables](./filament-resource-schemas-tables.md)
-- [charts-integration](./charts-integration.md)
-- [advanced-manage-related-records](./advanced-manage-related-records.md)
+## Filament, UI e grafici
 
-## Documentation
+- [Versione Filament](./../wiki/filament-version.md)
+- [Schema e tabelle Filament](./../wiki/filament-resource-schemas-tables.md)
+- [Architettura tabelle Filament](./../wiki/filament-table-architecture.md)
+- [Sottomenu admin](./../wiki/filament-admin-sub-navigation.md)
+- [Charts integration](./charts-integration.md)
 
-- [README](./README.md)
-- [second-brain](./second-brain.md)
-- [naming-conventions](./naming-conventions.md)
-- [schema](./schema.md)
-- [changelog](./changelog.md)
-- [release-marketing-standard](./release-marketing-standard.md)
+## Documentazione e release
 
-## PDF
+- [Indice wiki](../wiki/index.md), [log wiki](../wiki/log.md)
+- [Second brain](./second-brain.md)
+- [Schema](./schema.md), [changelog](./changelog.md)
+- [Standard release marketing](./release-marketing-standard.md)
+- [Guida Pandoc](./pandoc-guide.md)
+- [HTML2PDF](./html2pdf-integration.md)
 
-- [html2pdf-integration](./html2pdf-integration.md)
+## Roadmap e wiki
 
-## Roadmap
-
-- [documentation-consolidation](./roadmap/documentation-consolidation.md)
-- [namespace-conventions](./roadmap/namespace-conventions.md)
-- [code-quality](./roadmap/code-quality.md)
-- [html2pdf-integration](./roadmap/html2pdf-integration.md)
-- [charts-integration](./roadmap/charts-integration.md)
-
-## Charts
-
-- [theme-integration](./charts/theme-integration.md)
-
-## Wiki
-
-- [index](./wiki/index.md)
-- [log](./wiki/log.md)
-- [SCHEMA](./wiki/schema.md)
+- [Roadmap docs](../wiki/roadmap/documentation-consolidation.md),
+  [namespace](../wiki/roadmap/namespace-conventions.md),
+  [code quality](../wiki/roadmap/code-quality.md),
+  [HTML2PDF](../wiki/roadmap/html2pdf-integration.md),
+  [charts](../wiki/roadmap/charts-integration.md)
+- [Chart theme integration](../wiki/charts/theme-integration.md)
+- [Epic e story](./epics/one-epics-and-stories.md)

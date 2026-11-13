@@ -2,6 +2,7 @@
 title: docs deduplication — tema One
 type: reference
 updated: 2026-05-21
+qmd: "one theme docs deduplication — tema One docs deduplication"
 ---
 
 # Deduplica docs (tema One)

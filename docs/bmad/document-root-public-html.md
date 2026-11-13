@@ -12,7 +12,7 @@ related:
 
 # Document root: `public_html`, non `laravel/public`
 
-**Regola canonica**: [Modules/Xot/docs/wiki/rules/public-path-public-html.md](../../../Modules/Xot/docs/wiki/rules/public-path-public-html.md)
+**Regola canonica**: [Modules/Xot/docs/wiki/rules/public-path-public-html.md](./public-path-public-html.md)
 
 ## In una riga
 

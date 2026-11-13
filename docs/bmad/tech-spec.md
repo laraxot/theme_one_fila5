@@ -4,6 +4,7 @@ type: technical_spec
 tags: [tech spec, one, themes]
 created: 2026-08-04
 updated: 2026-08-04
+qmd: "one theme Technical Specification - One Theme tech spec"
 ---
 # Technical Specification - One Theme
 

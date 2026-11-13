@@ -7,6 +7,7 @@ created: "2026-05-26"
 updated: "2026-05-26"
 owner: "One"
 issue: "https://github.com/provtv/base_ptv_fila5_mono/issues/150"
+qmd: "one theme Code redundancy audit — One code redundancy audit"
 ---
 
 # Code redundancy audit — One
@@ -70,7 +71,7 @@ Ridurre rumore, duplicazione e ambiguita' nel codice di questo theme, senza perd
 
 Il tema **non** duplica la logica HR. Decisioni e catalogo:
 
-- [Ptv — audit ridondanza](../../../Modules/Ptv/docs/wiki/redundancy-audit.md)
+- [Ptv — audit ridondanza](../wiki/redundancy-audit.md)
 - [Catalogo superficie Ptv↔Sigma](../../../Modules/Ptv/docs/wiki/ptv-sigma-shared-surface-catalog.md)
 - [Policy ownership (Xot)](../../../Modules/Xot/docs/wiki/concepts/ptv-sigma-redundancy-ownership.md)
 

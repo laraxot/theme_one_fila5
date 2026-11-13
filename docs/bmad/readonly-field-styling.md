@@ -76,8 +76,8 @@ Pattern standard per lo stile visivo dei campi readonly (calcolati/computati) ne
 
 ## Collegamenti
 
-- [Theme Zero - Readonly Styling](../../../Themes/Zero/docs/readonly-field-styling.md) - Pattern condiviso
-- [IndennitaResponsabilita - Readonly Styling](../../../Modules/IndennitaResponsabilita/docs/readonly-field-styling.md) - Implementazione nel modulo
+- [Theme Zero - Readonly Styling](./readonly-field-styling.md) - Pattern condiviso
+- [IndennitaResponsabilita - Readonly Styling](./readonly-field-styling.md) - Implementazione nel modulo
 
 ---
 

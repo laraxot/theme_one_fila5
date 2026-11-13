@@ -83,11 +83,11 @@ divergenza; se non devono, serve la decisione del punto 1.
 
 ## Confini
 
-Gli stessi di [Zero](../../Zero/docs/purpose.md): la logica di dominio sta nei moduli, le
+Gli stessi di [Zero](./purpose.md): la logica di dominio sta nei moduli, le
 classi base Filament in `Xot`, le traduzioni di dominio nei `lang/` dei moduli.
 
 ## Collegamenti
 
-- [Zero — scopo](../../Zero/docs/purpose.md) — il tema attivo, da cui One differisce per due file
-- [Three — scopo](../../Three/docs/purpose.md)
+- [Zero — scopo](./purpose.md) — il tema attivo, da cui One differisce per due file
+- [Three — scopo](./purpose.md)
 - [docs/epics.md](../../../../docs/epics.md) — la Story Storage Policy da correggere

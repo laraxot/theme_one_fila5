@@ -69,8 +69,8 @@ Rendere stabile la generazione PDF dal tema con layout e stili coerenti.
 
 ## Collegamenti correlati
 
-- [`Roadmap tema One`](../roadmap.md)
+- [`Roadmap tema One`](../../bmad/roadmap.md)
 - [`charts-integration.md`](charts-integration.md)
 - [`code-quality.md`](code-quality.md)
 - [`html2pdf-integration.md`](../html2pdf-integration.md)
-- [`common-errors.md`](../common-errors.md)
+- [`common-errors.md`](../../bmad/common-errors.md)

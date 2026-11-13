@@ -69,8 +69,8 @@ Ridurre la ridondanza e mantenere la documentazione del tema coerente e facilmen
 
 ## Collegamenti correlati
 
-- [`Roadmap tema One`](../roadmap.md)
+- [`Roadmap tema One`](../../bmad/roadmap.md)
 - [`code-quality.md`](code-quality.md)
 - [`namespace-conventions.md`](namespace-conventions.md)
-- [`theme-analysis.md`](../theme-analysis.md)
+- [`theme-analysis.md`](../../bmad/theme-analysis.md)
 - [`links.md`](../links.md)

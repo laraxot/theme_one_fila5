@@ -4,6 +4,7 @@ type: architecture
 tags: [theme, architecture, one]
 created: 2026-08-04
 updated: 2026-08-04
+qmd: "one theme One Theme Architecture architecture"
 ---
 # One Theme — Architecture
 
@@ -32,13 +33,6 @@ One theme architecture and design patterns for Laraxot PTVX.
 
 <!-- Merged from ARCHITECTURE.md, which collided with this file on case-insensitive filesystems. -->
 
----
-title: "One Theme Architecture"
-type: architecture
-tags: [theme, architecture, one, frontend]
-created: 2026-08-04
-updated: 2026-08-04
----
 # One Theme — Architecture
 
 ## Purpose

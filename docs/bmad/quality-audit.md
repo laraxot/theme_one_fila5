@@ -112,5 +112,5 @@ scrivendo sul tree, altrimenti la misura e falsa e diversa a ogni run.
 /usr/bin/find Modules -newermt '-70 seconds' -type f | wc -l   # deve dare 0
 ```
 
-Audit complessivo e confronto fra tutte le unita: [`docs/quality-audit.md`](../../../../docs/quality-audit.md) nella root del progetto.
+Audit complessivo e confronto fra tutte le unita: [`docs/quality-audit.md`](./quality-audit.md) nella root del progetto.
 

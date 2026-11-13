@@ -69,8 +69,8 @@ Consolidare l'integrazione dei grafici e definire linee guida per dashboard coer
 
 ## Collegamenti correlati
 
-- [`Roadmap tema One`](../roadmap.md)
+- [`Roadmap tema One`](../../bmad/roadmap.md)
 - [`html2pdf-integration.md`](html2pdf-integration.md)
 - [`code-quality.md`](code-quality.md)
 - [`charts-integration.md`](../charts-integration.md)
-- [`theme-analysis.md`](../theme-analysis.md)
+- [`theme-analysis.md`](../../bmad/theme-analysis.md)

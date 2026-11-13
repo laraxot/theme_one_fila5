@@ -12,8 +12,8 @@ related:
 
 # Document root per i temi
 
-Gli asset del tema dopo `npm run build` + `npm run copy` devono finire in **`public_html/themes/{Theme}/`**.
+Gli asset del tema dopo `npm run build` + `symlink public_html/themes (npm run copy obsoleto)` devono finire in **`public_html/themes/{Theme}/`**.
 
 `public_path()` Laravel punta a `public_html/`, **non** a `laravel/public/`.
 
-SSoT: [public-path-is-public-html](../../../../docs/wiki/memories/public-path-is-public-html.md) · skill [public-path-public-html](../../../../docs/wiki/skills/public-path-public-html.md).
+SSoT: [public-path-is-public-html](../../../../docs/wiki/memories/public-path-is-public-html.md) · skill [public-path-public-html](./public-path-public-html.md).
