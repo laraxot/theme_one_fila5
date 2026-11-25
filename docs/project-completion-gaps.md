@@ -59,7 +59,7 @@ Lettura read-only delle 6 story locali (`*.story.md`): 4 hanno uno stato diverso
 
 ### Esempi prioritari da riconciliare
 
-- `active` — [`navigationicon-themes-audit.story.md`](bmad/stories/navigationicon-themes-audit.story.md)
+- `active` — [`0003-navigationicon-themes-audit.story.md`](bmad/stories/navigationicon-themes-audit.story.md)
 - `backlog` — [`3.6.staff-portal-readonly-view.story.md`](stories/3.6.staff-portal-readonly-view.story.md)
 - `backlog` — [`4.4.evaluation-criteria-publish.story.md`](stories/4.4.evaluation-criteria-publish.story.md)
 - `backlog` — [`4.5.transparent-scoring-view.story.md`](stories/4.5.transparent-scoring-view.story.md)
