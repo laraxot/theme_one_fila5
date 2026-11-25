@@ -1,4 +1,5 @@
 ---
+title: "Metodi Duplicati — Censimento Completo"
 type: analysis
 topic: METODI_DUPLICATI_CENSIMENTO
 tags: [metodi-duplicati, refactoring, code-quality, dry]
