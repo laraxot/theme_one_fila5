@@ -107,6 +107,6 @@ Useful for distribution or archiving.
 
 ## References
 
-- Installation: ../../docs/wiki/tools/pandoc-installation.md
-- Usage guide: ../../docs/wiki/tools/pandoc-usage.md
+- Installation: ../../docs/wiki/pandoc.md
+- Usage guide: ../../docs/wiki/pandoc.md
 - Official: https://pandoc.org
