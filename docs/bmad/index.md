@@ -38,7 +38,7 @@ Ingresso del dossier `bmad/`. L'ingresso generale resta [../README.md](../README
 - [Audit ridondanza](./code-redundancy-audit.md)
 - [Errori comuni](./common-errors.md)
 - [PHPStan nel tema](../phpstan-level10-analysis.md)
-- [Metodi duplicati](./duplicate-methods.md) e [report](./duplicate-methods-report.md)
+- Metodi duplicati: [census corpi duplicati](../wiki/concepts/duplicate-method-bodies.md)
 - [Analisi DRY/KISS](./dry-kiss-analysis.md)
 - [DRY/KISS matr-ente](./dry-kiss-matr-ente-relationships.md)
 - [Campi readonly](./readonly-field-styling.md)
@@ -46,12 +46,9 @@ Ingresso del dossier `bmad/`. L'ingresso generale resta [../README.md](../README
 
 ## Prodotto e strategia
 
-- [PRD](./prd.md), [product requirements](./product-requirements.md)
-- [Strategia prodotto](./product-strategy.md)
-- [Launch plan](./launch-plan.md) e [product launch plan](./product-launch-plan.md)
-- [Roadmap](./roadmap.md), [sprint planning](./sprint-planning.md) e
-  [sprint planning meeting](./sprint-planning-meeting.md)
-- [User research](./user-research.md) e [theme analysis](./theme-analysis.md)
+- [PRD](./prd.md)
+- [Roadmap](./roadmap.md)
+- [Theme analysis](./theme-analysis.md)
 
 ## Filament, UI e grafici
 
