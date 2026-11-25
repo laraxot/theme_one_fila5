@@ -16,4 +16,4 @@ Frontmatter (`title`, `type: decision`, `status`, `created`, `updated`, `decisio
 
 ## ADR presenti
 
-Elenco con stato: [INDEX.md](INDEX.md). Presente: [one-reuses-zero-build-and-serves-localhost](one-reuses-zero-build-and-serves-localhost.md).
+Elenco con stato: [INDEX.md](INDEX.md). Presente: [one-reuses-zero-build-and-serves-localhost](0001-one-reuses-zero-build-and-serves-localhost.md).

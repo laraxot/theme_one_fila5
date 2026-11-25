@@ -7,8 +7,25 @@ created: 2026-09-23
 updated: 2026-09-23
 qmd: "one theme PHPStan gate check — Themes/One (swarm 21 moduli) quality gates phpstan swarm 2026 09 23.story"
 ---
-
 # PHPStan gate check — Themes/One
+
+## Context and Problem Statement
+
+Problema e obiettivo sono descritti nel Decision Outcome (migrazione automatica a MADR).
+
+## Decision Drivers
+
+- Richiesta utente / acceptance criteria della story
+- Vincoli BMAD, second brain, Pest gate e dati sacri
+
+## Considered Options
+
+- Status quo (non fare)
+- Implementare come descritto nel Decision Outcome
+
+## Decision Outcome
+
+Scelta: **implementare**, perché i driver sopra.
 
 ## Contesto
 
@@ -85,3 +102,19 @@ verificare prima quanti file `.php` reali esistono nello scope (`find . -iname
 scope vuoto o quasi-vuoto produrrebbe lo stesso output ma senza reale
 copertura. In questo caso lo scope aveva 26 file reali, quindi il verde è
 attendibile.
+
+
+### Consequences
+
+- Buono, perché chiude il gap descritto nel Context
+- Cattivo, perché richiede write-back docs, lock e quality gate
+
+### Confirmation
+
+Stesso comando rieseguito immediatamente prima della chiusura story, stesso
+esito:
+
+```
+Note: Using configuration file /var/www/_bases/base_ptvx_fila5/laravel/phpstan.neon.
+ [OK] No errors
+```

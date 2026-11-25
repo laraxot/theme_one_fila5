@@ -10,6 +10,6 @@ qmd: "Theme One ADR INDEX stato decisioni"
 
 | ADR | Stato | Sintesi |
 |---|---|---|
-| [one-reuses-zero-build-and-serves-localhost](one-reuses-zero-build-and-serves-localhost.md) | accepted | One non ha build propria: carica gli asset di Zero e serve `localhost` |
+| [one-reuses-zero-build-and-serves-localhost](0001-one-reuses-zero-build-and-serves-localhost.md) | accepted | One non ha build propria: carica gli asset di Zero e serve `localhost` |
 
 Formato e regole: [README](README.md).
