@@ -51,3 +51,7 @@ audit-coverage/
 .github/skills
 /docs/graphify/
 *.lock
+
+# screenshot di comparazione visiva (artefatti locali)
+docs/project/visual-comparison/
+docs/visual-comparison/
