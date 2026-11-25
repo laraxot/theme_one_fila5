@@ -12,9 +12,9 @@ qmd: "one theme second-brain-local-discipline — puntatore second brain local d
 
 # second brain local discipline
 
-Stub **DRY** verso wiki modulo **Xot**. Policy: [module-docs-deduplication](../../../../../../docs/wiki/how-to/module-docs-deduplication.md).
+Stub **DRY** verso wiki modulo **Xot**. Policy: [module-docs-deduplication](../../../../../../bashscripts/ai/wiki/how-to/modules-ops.md#module-docs-deduplication).
 
-Sweep marcatori merge: [git-merge-marker-sweep](../../../../../../docs/wiki/how-to/git-merge-marker-sweep.md).
+Sweep marcatori merge: [git-merge-marker-sweep](../../../../../../bashscripts/ai/wiki/how-to/git-github.md#git-merge-marker-sweep).
 
 → [second-brain-local-discipline](./second-brain-local-discipline.md)
 

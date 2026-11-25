@@ -186,7 +186,7 @@ ls .github/workflows/semantic-release.yml changelog.md 2>&1   # o esistono, o si
 - **Non** è una cartella di lavoro: `resources/css/` è sorgente, non output di test.
 - **Non** scrive in `laravel/public`. Il `public_path()` di questo progetto è
   `public_html/` (`laravel/app/Application.php:16-18`), come da SSoT
-  [`public-path-is-public-html`](../../../../docs/wiki/memories/public-path-is-public-html.md).
+  [`public-path-is-public-html`](../../../../../bashscripts/ai/wiki/memories/frontend-themes-css.md#public-path-is-public-html).
 - **Non** è una libreria di componenti: quelli condivisi stanno in `Modules/UI`.
 
 ## Verifica
@@ -223,5 +223,5 @@ grep -rn "laravel/public\b" Themes/One --include='*.js' --include='*.json' --inc
 
 - [Themes/Zero/docs/scopo.md](./scopo.md) — il tema di cui One è la copia
 - [Themes/Three/docs/scopo.md](./scopo.md) — il terzo tema, un file
-- [public-path-is-public-html](../../../../docs/wiki/memories/public-path-is-public-html.md) — perché non esiste `laravel/public`
+- [public-path-is-public-html](../../../../../bashscripts/ai/wiki/memories/frontend-themes-css.md#public-path-is-public-html) — perché non esiste `laravel/public`
 - [Modules/UI/docs/scopo.md](./scopo.md) — dove vivono i componenti condivisi

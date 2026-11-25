@@ -11,7 +11,7 @@ related:
   - ../code-redundancy-audit.md
   - ../../../../Modules/Ptv/docs/wiki/redundancy-audit.md
   - ../../../../Modules/Ptv/docs/wiki/ptv-sigma-shared-surface-catalog.md
-  - ../../../../Modules/Xot/docs/wiki/concepts/ptv-sigma-redundancy-ownership.md
+  - ../../../../../bashscripts/ai/wiki/concepts/quality-testing-verification.md#ptv-sigma-redundancy-ownership
 qmd: "one theme audit ridondanza temi (one zero three) redundancy audit"
 ---
 

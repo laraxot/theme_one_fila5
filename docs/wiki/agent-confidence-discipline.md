@@ -20,4 +20,4 @@ Protocollo root: [agent-confidence-protocol](./agent-confidence-protocol.md).
 
 Sintesi: verificare prima di affermare; riprodurre prima di correggere; **business logic / scopo / chiamanti** prima del tipo; aggiornare docs del **tema o modulo owner**; rispondere in italiano sintetico.
 
-Pattern bugfix: [bugfix-business-logic-before-type](../../../../docs/wiki/patterns/bugfix-business-logic-before-type.md)
+Pattern bugfix: [bugfix-business-logic-before-type](../../../../../bashscripts/ai/wiki/patterns/patterns.md#bugfix-business-logic-before-type)

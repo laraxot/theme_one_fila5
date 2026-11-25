@@ -15,7 +15,7 @@ Themes follow the same directory structure standards as Modules.
 - **BMAD Architecture**: [architecture.md](../bmad/architecture.md) · [architecture-module-directory-structure.md](../../../../docs/wiki/bmad/architecture-module-directory-structure.md)
 - **Module Structure Rule**: [module-root-php-folders-forbidden.md](../../../../docs/wiki/rules/module-root-php-folders-forbidden.md)
 - **PHPStan Memory**: ALWAYS use `php -d memory_limit=-1 ./vendor/bin/phpstan` for heavy analyses to avoid parallel worker crashes.
-- **Documentation Rules**: [No lang/lang/ and No _docs/ Rule](../../../../docs/wiki/concepts/no-lang-lang-and-no-underscore-docs-rule.md)
+- **Documentation Rules**: [No lang/lang/ and No _docs/ Rule](../../../../../bashscripts/ai/wiki/concepts/modules-structure-rules.md#no-lang-lang-and-no-underscore-docs-rule)
 
 ## Directory Structure
 

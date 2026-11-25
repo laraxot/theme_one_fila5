@@ -8,7 +8,7 @@ tags: [themes, migrations, boundaries]
 qmd: "themes no database migrations one migration per model"
 related:
   - ../../../Modules/Xot/docs/wiki/concepts/one-migration-per-model.md
-  - ../../../../docs/wiki/memories/one-migration-per-model-bump-timestamp.md
+  - ../../../../../bashscripts/ai/wiki/memories/migrations-composer-modules.md#one-migration-per-model-bump-timestamp
 ---
 
 # Temi e migrazioni

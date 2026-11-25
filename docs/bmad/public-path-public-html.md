@@ -6,7 +6,7 @@ created: 2026-09-01
 updated: 2026-09-01
 qmd: "public_path public_html themes vite copy"
 related:
-  - ../../../../docs/wiki/memories/public-path-is-public-html.md
+  - ../../../../../bashscripts/ai/wiki/memories/frontend-themes-css.md#public-path-is-public-html
   - ./binary-assets.md
 ---
 
@@ -16,4 +16,4 @@ Gli asset del tema dopo `npm run build` + `symlink public_html/themes (npm run c
 
 `public_path()` Laravel punta a `public_html/`, **non** a `laravel/public/`.
 
-SSoT: [public-path-is-public-html](../../../../docs/wiki/memories/public-path-is-public-html.md) · skill [public-path-public-html](./public-path-public-html.md).
+SSoT: [public-path-is-public-html](../../../../../bashscripts/ai/wiki/memories/frontend-themes-css.md#public-path-is-public-html) · skill [public-path-public-html](./public-path-public-html.md).

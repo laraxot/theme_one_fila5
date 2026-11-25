@@ -73,7 +73,7 @@ Il tema **non** duplica la logica HR. Decisioni e catalogo:
 
 - [Ptv — audit ridondanza](../wiki/redundancy-audit.md)
 - [Catalogo superficie Ptv↔Sigma](../../../Modules/Ptv/docs/wiki/ptv-sigma-shared-surface-catalog.md)
-- [Policy ownership (Xot)](../../../Modules/Xot/docs/wiki/concepts/ptv-sigma-redundancy-ownership.md)
+- [Policy ownership (Xot)](../../../../../bashscripts/ai/wiki/concepts/quality-testing-verification.md#ptv-sigma-redundancy-ownership)
 
 Issue tema: repo `origin` — **#5** (blade). Campagna mono: **#162**.
 
